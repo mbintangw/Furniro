@@ -39,3 +39,11 @@ button.fill{
 button.fill:hover{
   @apply bg-yellow-400 text-black
 }
+
+.card-category {
+  @apply w-[381px] h-[546px] flex flex-col gap-5
+}
+
+.card-category img {
+  @apply object-cover h-full rounded-xl
+}
