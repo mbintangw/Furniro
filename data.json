@@ -1,0 +1,1863 @@
+[
+  {
+    "id": 1,
+    "name": "sorki",
+    "price": 20000,
+    "type": "wood",
+    "img": "img/sorki.jpg",
+    "quantity": 1,
+    "size": ["s","M","L","XL","XXL"],
+    "category": "chair",
+    "color": ["#0000","#B88E2F","#816DFA"],
+    "tags" : ["chair","sofa", "Home"],
+    "created-at" : "2022-01-01 00:00:00",
+    "description": "Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "additional-information": "this is additional information for this item max 500 characters",
+    "rating": 4,
+    "reviews": [{
+      "id": 101,
+      "name": "abraham",
+      "rating": 4,
+      "comment": "Its a good products for the price, i will buy again in future"
+    },
+    {
+      "id": 102,
+      "name": "linkoln",
+      "rating": 4,
+      "comment": "Its a good products for the price, i will buy again in future"
+    }],
+    "detail" : {
+      "general" : {
+        "sales-package" : "1 sectional sofa",
+        "model-number" : "KLS-456",
+        "secondary-material" : "Solid Wood",
+        "configuration" : "L-Shaped",
+        "upholstery-material" : "Fabric + Cutton",
+        "upholstery-color": "Black"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Brigh grey & Lion",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "100kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "120cm",
+        "height": "120cm",
+        "depth": "120cm",
+        "weight": "120kg",
+        "seat-height": "120cm",
+        "leg-height": "120cm"
+      },
+      "warranty" : {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at operations@trevifurniture.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "orion",
+    "price": 18000,
+    "type": "metal",
+    "img": "img/orion.jpg",
+    "quantity": 3,
+    "size": ["M", "L", "XL"],
+    "category": "chair",
+    "color": ["#FF5733", "#C70039", "#900C3F"],
+    "tags": ["chair", "metal", "office"],
+    "created-at": "2022-02-01 00:00:00",
+    "description": "The Orion chair brings modern style and comfort to your office or home. Made from durable metal, it features a sleek design and ergonomic support.",
+    "additional-information": "This chair supports up to 150kg and comes with a 1-year warranty.",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "id": 201,
+        "name": "emma",
+        "rating": 4,
+        "comment": "Comfortable and stylish, perfect for my office."
+      },
+      {
+        "id": 202,
+        "name": "jack",
+        "rating": 4.4,
+        "comment": "Great value for the price."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 chair",
+        "model-number": "OR-100",
+        "secondary-material": "Plastic",
+        "configuration": "Swivel",
+        "upholstery-material": "Leather",
+        "upholstery-color": "Black"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "Yes",
+        "maximum-load-capacity": "150kg",
+        "origin-of-manufacture": "Germany"
+      },
+      "dimensions": {
+        "width": "70cm",
+        "height": "110cm",
+        "depth": "70cm",
+        "weight": "12kg",
+        "seat-height": "50cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionchairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "vega",
+    "price": 15000,
+    "type": "plastic",
+    "img": "img/vega.jpg",
+    "quantity": 5,
+    "size": ["s", "M"],
+    "category": "chair",
+    "color": ["#8E44AD", "#2980B9", "#27AE60"],
+    "tags": ["chair", "plastic", "garden"],
+    "created-at": "2022-03-01 00:00:00",
+    "description": "The Vega chair is perfect for outdoor settings with its sturdy plastic build and vibrant colors. It's lightweight and easy to move around.",
+    "additional-information": "Weather-resistant and easy to clean.",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "id": 301,
+        "name": "lily",
+        "rating": 4,
+        "comment": "Great for my garden, very colorful."
+      },
+      {
+        "id": 302,
+        "name": "henry",
+        "rating": 3.6,
+        "comment": "Good chair but a bit lightweight for windy days."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 garden chair",
+        "model-number": "VG-200",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "100kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "60cm",
+        "height": "90cm",
+        "depth": "60cm",
+        "weight": "4kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "6 Months Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegachairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "6 Months"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "lyra",
+    "price": 22000,
+    "type": "wood",
+    "img": "img/lyra.jpg",
+    "quantity": 2,
+    "size": ["s", "M", "L"],
+    "category": "chair",
+    "color": ["#B0E0E6", "#FFB6C1", "#778899"],
+    "tags": ["chair", "wood", "dining"],
+    "created-at": "2022-04-01 00:00:00",
+    "description": "The Lyra dining chair combines elegance with durability. Crafted from high-quality wood, it features a sleek design and a comfortable seat.",
+    "additional-information": "Perfect for dining rooms, comes in multiple colors.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 401,
+        "name": "grace",
+        "rating": 4.6,
+        "comment": "Beautiful design and very comfortable."
+      },
+      {
+        "id": 402,
+        "name": "daniel",
+        "rating": 4.4,
+        "comment": "High quality and looks great in my dining room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 dining chair",
+        "model-number": "LY-300",
+        "secondary-material": "Fabric",
+        "configuration": "Standard",
+        "upholstery-material": "Cotton",
+        "upholstery-color": "Blue"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "120kg",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "50cm",
+        "height": "100cm",
+        "depth": "50cm",
+        "weight": "8kg",
+        "seat-height": "45cm",
+        "leg-height": "40cm"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrachairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "cassiopeia",
+    "price": 25000,
+    "type": "metal",
+    "img": "img/cassiopeia.jpg",
+    "quantity": 4,
+    "size": ["M", "L", "XL"],
+    "category": "chair",
+    "color": ["#FF6347", "#4682B4", "#FFD700"],
+    "tags": ["chair", "metal", "living room"],
+    "created-at": "2022-05-01 00:00:00",
+    "description": "The Cassiopeia chair offers a modern touch to your living room with its sleek metal frame and comfortable design.",
+    "additional-information": "Comes with a plush cushion and a 1-year warranty.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 501,
+        "name": "sophia",
+        "rating": 4.8,
+        "comment": "Stylish and very comfortable."
+      },
+      {
+        "id": 502,
+        "name": "oliver",
+        "rating": 4.6,
+        "comment": "Perfect for my living room, love it."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 living room chair",
+        "model-number": "CS-400",
+        "secondary-material": "Fabric",
+        "configuration": "Standard",
+        "upholstery-material": "Velvet",
+        "upholstery-color": "Red"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "140kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "70cm",
+        "height": "110cm",
+        "depth": "70cm",
+        "weight": "10kg",
+        "seat-height": "50cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiachairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "rigel",
+    "price": 17000,
+    "type": "wood",
+    "img": "img/rigel.jpg",
+    "quantity": 2,
+    "size": ["s", "M"],
+    "category": "chair",
+    "color": ["#2E8B57", "#FFD700", "#8B4513"],
+    "tags": ["chair", "wood", "patio"],
+    "created-at": "2022-06-01 00:00:00",
+    "description": "The Rigel chair is perfect for outdoor patios with its durable wooden frame and weather-resistant finish.",
+    "additional-information": "Weather-resistant and easy to maintain.",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": 601,
+        "name": "ava",
+        "rating": 4.5,
+        "comment": "Great for my patio, very sturdy."
+      },
+      {
+        "id": 602,
+        "name": "james",
+        "rating": 4.1,
+        "comment": "Comfortable and looks good outdoors."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 patio chair",
+        "model-number": "RG-500",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "120kg",
+        "origin-of-manufacture": "Vietnam"
+      },
+      "dimensions": {
+        "width": "65cm",
+        "height": "90cm",
+        "depth": "65cm",
+        "weight": "7kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@rigelchairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "antares",
+    "price": 20000,
+    "type": "fiber",
+    "img": "img/antares.jpg",
+    "quantity": 3,
+    "size": ["M", "L", "XL"],
+    "category": "chair",
+    "color": ["#1E90FF", "#FFA07A", "#20B2AA"],
+    "tags": ["chair", "plastic", "kids"],
+    "created-at": "2022-07-01 00:00:00",
+    "description": "The Antares chair is designed for kids with its colorful plastic frame and sturdy construction. Safe and fun for any playroom.",
+    "additional-information": "Non-toxic materials and easy to clean.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "id": 701,
+        "name": "mia",
+        "rating": 4,
+        "comment": "Perfect for my kids, they love it."
+      },
+      {
+        "id": 702,
+        "name": "noah",
+        "rating": 4,
+        "comment": "Sturdy and vibrant, great for playrooms."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 kids chair",
+        "model-number": "AN-600",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "50kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "50cm",
+        "height": "70cm",
+        "depth": "50cm",
+        "weight": "3kg",
+        "seat-height": "35cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@antareschairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "polaris",
+    "price": 23000,
+    "type": "fiber",
+    "img": "img/polaris.jpg",
+    "quantity": 2,
+    "size": ["L", "XL"],
+    "category": "chair",
+    "color": ["#8B0000", "#FF4500", "#FFD700"],
+    "tags": ["chair", "metal", "office"],
+    "created-at": "2022-08-01 00:00:00",
+    "description": "The Polaris chair is designed for the modern office with its sleek metal frame and ergonomic features.",
+    "additional-information": "Ergonomic design with adjustable height.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 801,
+        "name": "charlotte",
+        "rating": 4.6,
+        "comment": "Very comfortable and looks great in my office."
+      },
+      {
+        "id": 802,
+        "name": "lucas",
+        "rating": 4.4,
+        "comment": "Solid construction and ergonomic design."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 office chair",
+        "model-number": "PL-700",
+        "secondary-material": "Plastic",
+        "configuration": "Swivel",
+        "upholstery-material": "Mesh",
+        "upholstery-color": "Black"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "Yes",
+        "maximum-load-capacity": "150kg",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "75cm",
+        "height": "125cm",
+        "depth": "75cm",
+        "weight": "15kg",
+        "seat-height": "50cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarischairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "spica",
+    "price": 24000,
+    "type": "wood",
+    "img": "img/spica.jpg",
+    "quantity": 3,
+    "size": ["M", "L"],
+    "category": "chair",
+    "color": ["#4B0082", "#8A2BE2", "#9370DB"],
+    "tags": ["chair", "wood", "lounge"],
+    "created-at": "2022-09-01 00:00:00",
+    "description": "The Spica lounge chair combines luxury with comfort, featuring a high-quality wooden frame and plush seating.",
+    "additional-information": "Perfect for lounges and living rooms.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 901,
+        "name": "amelia",
+        "rating": 4.9,
+        "comment": "Extremely comfortable and stylish."
+      },
+      {
+        "id": 902,
+        "name": "logan",
+        "rating": 4.7,
+        "comment": "High quality and great for relaxing."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lounge chair",
+        "model-number": "SP-800",
+        "secondary-material": "Fabric",
+        "configuration": "Standard",
+        "upholstery-material": "Velvet",
+        "upholstery-color": "Purple"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "130kg",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "80cm",
+        "height": "100cm",
+        "depth": "80cm",
+        "weight": "10kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@spicachairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "bellatrix",
+    "price": 16000,
+    "type": "fiber",
+    "img": "img/bellatrix.jpg",
+    "quantity": 4,
+    "size": ["s", "M", "L"],
+    "category": "chair",
+    "color": ["#00CED1", "#FF69B4", "#FFD700"],
+    "tags": ["chair", "plastic", "kids"],
+    "created-at": "2022-10-01 00:00:00",
+    "description": "The Bellatrix chair is perfect for children with its bright colors and safe, sturdy design. Ideal for playrooms and classrooms.",
+    "additional-information": "Made from non-toxic materials and easy to clean.",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "id": 1001,
+        "name": "isabella",
+        "rating": 4.2,
+        "comment": "My kids love it, very colorful and safe."
+      },
+      {
+        "id": 1002,
+        "name": "ethan",
+        "rating": 4,
+        "comment": "Good quality and easy to clean."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 kids chair",
+        "model-number": "BL-900",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "50kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "45cm",
+        "height": "60cm",
+        "depth": "45cm",
+        "weight": "2kg",
+        "seat-height": "30cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@bellatrixchairs.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "nova",
+    "price": 45000,
+    "type": "leather",
+    "img": "img/nova.jpg",
+    "quantity": 2,
+    "size": ["M", "L"],
+    "category": "sofa",
+    "color": ["#8B0000", "#2E8B57", "#FFD700"],
+    "tags": ["sofa", "leather", "living room"],
+    "created-at": "2022-11-01 00:00:00",
+    "description": "The Nova sofa offers premium comfort with its luxurious leather upholstery and spacious seating. Ideal for living rooms.",
+    "additional-information": "Made with top-grain leather for durability and style.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 1101,
+        "name": "charlotte",
+        "rating": 4.8,
+        "comment": "Super comfortable and looks great."
+      },
+      {
+        "id": 1102,
+        "name": "liam",
+        "rating": 4.6,
+        "comment": "High quality and very stylish."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 leather sofa",
+        "model-number": "NV-100",
+        "secondary-material": "Solid Wood",
+        "configuration": "3-Seater",
+        "upholstery-material": "Leather",
+        "upholstery-color": "Red"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "Yes",
+        "maximum-load-capacity": "250kg",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "200cm",
+        "height": "90cm",
+        "depth": "100cm",
+        "weight": "80kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novasofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "vegaplus",
+    "price": 38000,
+    "type": "fabric",
+    "img": "img/vegaplus.jpg",
+    "quantity": 3,
+    "size": ["s", "M"],
+    "category": "sofa",
+    "color": ["#4682B4", "#DAA520", "#808080"],
+    "tags": ["sofa", "fabric", "living room"],
+    "created-at": "2022-12-01 00:00:00",
+    "description": "The Vegaplus fabric sofa offers a blend of comfort and style with its soft fabric upholstery and modern design.",
+    "additional-information": "Removable and washable covers for easy maintenance.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 1201,
+        "name": "amelia",
+        "rating": 4.6,
+        "comment": "Very comfortable and easy to clean."
+      },
+      {
+        "id": 1202,
+        "name": "noah",
+        "rating": 4.4,
+        "comment": "Stylish and practical for everyday use."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 fabric sofa",
+        "model-number": "VG-200",
+        "secondary-material": "Metal",
+        "configuration": "2-Seater",
+        "upholstery-material": "Fabric",
+        "upholstery-color": "Blue"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "200kg",
+        "origin-of-manufacture": "Vietnam"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "85cm",
+        "depth": "90cm",
+        "weight": "50kg",
+        "seat-height": "40cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegasofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "lyran",
+    "price": 32000,
+    "type": "velvet",
+    "img": "img/lyran.jpg",
+    "quantity": 1,
+    "size": ["s", "M", "L"],
+    "category": "sofa",
+    "color": ["#9932CC", "#FFD700", "#4682B4"],
+    "tags": ["sofa", "velvet", "luxury"],
+    "created-at": "2022-11-15 00:00:00",
+    "description": "The Lyran velvet sofa exudes luxury with its plush velvet upholstery and elegant design. Perfect for a touch of glamour in any living space.",
+    "additional-information": "Soft velvet fabric and solid wood frame.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 1301,
+        "name": "olivia",
+        "rating": 4.9,
+        "comment": "Absolutely stunning and very comfortable."
+      },
+      {
+        "id": 1302,
+        "name": "james",
+        "rating": 4.7,
+        "comment": "Luxurious feel and great quality."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 velvet sofa",
+        "model-number": "LR-300",
+        "secondary-material": "Solid Wood",
+        "configuration": "2-Seater",
+        "upholstery-material": "Velvet",
+        "upholstery-color": "Purple"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "200kg",
+        "origin-of-manufacture": "Turkey"
+      },
+      "dimensions": {
+        "width": "140cm",
+        "height": "85cm",
+        "depth": "85cm",
+        "weight": "45kg",
+        "seat-height": "40cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrasofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "orin",
+    "price": 27000,
+    "type": "wood",
+    "img": "img/orin.jpg",
+    "quantity": 3,
+    "size": ["M", "L"],
+    "category": "sofa",
+    "color": ["#8B4513", "#F0E68C", "#708090"],
+    "tags": ["sofa", "wood", "living room"],
+    "created-at": "2022-12-01 00:00:00",
+    "description": "The Orin wood sofa combines classic design with modern comfort. Ideal for any living room setting.",
+    "additional-information": "Crafted from high-quality wood with soft fabric cushions.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 1401,
+        "name": "emma",
+        "rating": 4.7,
+        "comment": "Beautiful design and very comfortable."
+      },
+      {
+        "id": 1402,
+        "name": "oliver",
+        "rating": 4.5,
+        "comment": "Great quality and value for money."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wood sofa",
+        "model-number": "OR-400",
+        "secondary-material": "Fabric",
+        "configuration": "3-Seater",
+        "upholstery-material": "Fabric",
+        "upholstery-color": "Brown"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "250kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "180cm",
+        "height": "90cm",
+        "depth": "95cm",
+        "weight": "70kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionsofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "cassider",
+    "price": 35000,
+    "type": "leather",
+    "img": "img/cassider.jpg",
+    "quantity": 2,
+    "size": ["M", "L", "XL"],
+    "category": "sofa",
+    "color": ["#B22222", "#20B2AA", "#778899"],
+    "tags": ["sofa", "leather", "modern"],
+    "created-at": "2022-12-15 00:00:00",
+    "description": "The Cassider leather sofa offers a sleek, modern look with its top-quality leather upholstery and minimalist design.",
+    "additional-information": "Easy to clean and maintain, perfect for contemporary homes.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 1501,
+        "name": "ava",
+        "rating": 4.8,
+        "comment": "Beautiful and very comfortable."
+      },
+      {
+        "id": 1502,
+        "name": "lucas",
+        "rating": 4.6,
+        "comment": "Great design and high quality."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 leather sofa",
+        "model-number": "CS-500",
+        "secondary-material": "Metal",
+        "configuration": "2-Seater",
+        "upholstery-material": "Leather",
+        "upholstery-color": "Green"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "Yes",
+        "maximum-load-capacity": "220kg",
+        "origin-of-manufacture": "Germany"
+      },
+      "dimensions": {
+        "width": "160cm",
+        "height": "85cm",
+        "depth": "90cm",
+        "weight": "65kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiasofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "arcturus",
+    "price": 30000,
+    "type": "fabric",
+    "img": "img/arcturus.jpg",
+    "quantity": 1,
+    "size": ["s", "M", "L"],
+    "category": "sofa",
+    "color": ["#8A2BE2", "#7FFF00", "#D2691E"],
+    "tags": ["sofa", "fabric", "modern"],
+    "created-at": "2022-11-20 00:00:00",
+    "description": "The Arcturus fabric sofa combines contemporary design with comfortable seating, perfect for any modern living space.",
+    "additional-information": "Durable fabric with removable, washable covers.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 1601,
+        "name": "sophia",
+        "rating": 4.6,
+        "comment": "Comfortable and easy to maintain."
+      },
+      {
+        "id": 1602,
+        "name": "william",
+        "rating": 4.4,
+        "comment": "Stylish and practical."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 fabric sofa",
+        "model-number": "AT-600",
+        "secondary-material": "Metal",
+        "configuration": "2-Seater",
+        "upholstery-material": "Fabric",
+        "upholstery-color": "Purple"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "210kg",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "85cm",
+        "depth": "90cm",
+        "weight": "55kg",
+        "seat-height": "40cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@arcturussofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "polaryt",
+    "price": 29000,
+    "type": "velvet",
+    "img": "img/polaryt.jpg",
+    "quantity": 2,
+    "size": ["M", "L", "XL"],
+    "category": "sofa",
+    "color": ["#DC143C", "#FFD700", "#1E90FF"],
+    "tags": ["sofa", "velvet", "luxury"],
+    "created-at": "2022-12-25 00:00:00",
+    "description": "The Polaryt velvet sofa offers a touch of luxury with its plush velvet fabric and elegant design. Perfect for adding sophistication to your home.",
+    "additional-information": "Soft velvet upholstery with sturdy wooden frame.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 1701,
+        "name": "mia",
+        "rating": 4.8,
+        "comment": "Absolutely luxurious and very comfortable."
+      },
+      {
+        "id": 1702,
+        "name": "benjamin",
+        "rating": 4.6,
+        "comment": "Beautiful and high quality."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 velvet sofa",
+        "model-number": "PL-700",
+        "secondary-material": "Solid Wood",
+        "configuration": "3-Seater",
+        "upholstery-material": "Velvet",
+        "upholstery-color": "Red"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "230kg",
+        "origin-of-manufacture": "UK"
+      },
+      "dimensions": {
+        "width": "170cm",
+        "height": "85cm",
+        "depth": "90cm",
+        "weight": "60kg",
+        "seat-height": "42cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarissofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "santares",
+    "price": 37000,
+    "type": "leather",
+    "img": "img/santares.jpg",
+    "quantity": 1,
+    "size": ["M", "L"],
+    "category": "sofa",
+    "color": ["#8B4513", "#2E8B57", "#8A2BE2"],
+    "tags": ["sofa", "leather", "luxury"],
+    "created-at": "2022-11-05 00:00:00",
+    "description": "The Santares leather sofa combines elegance and comfort with its high-quality leather and refined design. Ideal for luxury living rooms.",
+    "additional-information": "Top-grain leather upholstery for durability and style.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 1801,
+        "name": "sophia",
+        "rating": 4.9,
+        "comment": "Elegant and very comfortable."
+      },
+      {
+        "id": 1802,
+        "name": "jackson",
+        "rating": 4.7,
+        "comment": "Great quality and luxurious feel."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 leather sofa",
+        "model-number": "AN-800",
+        "secondary-material": "Metal",
+        "configuration": "3-Seater",
+        "upholstery-material": "Leather",
+        "upholstery-color": "Brown"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "Yes",
+        "maximum-load-capacity": "240kg",
+        "origin-of-manufacture": "France"
+      },
+      "dimensions": {
+        "width": "200cm",
+        "height": "90cm",
+        "depth": "95cm",
+        "weight": "85kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@antaressofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "andromeda",
+    "price": 28000,
+    "type": "fabric",
+    "img": "img/andromeda.jpg",
+    "quantity": 3,
+    "size": ["M", "L"],
+    "category": "sofa",
+    "color": ["#FF4500", "#FFD700", "#00CED1"],
+    "tags": ["sofa", "wood", "classic"],
+    "created-at": "2022-10-25 00:00:00",
+    "description": "The Andromeda wood sofa combines classic design with modern comfort. Perfect for any living room setting.",
+    "additional-information": "Crafted from high-quality wood with soft fabric cushions.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 1901,
+        "name": "amelia",
+        "rating": 4.7,
+        "comment": "Beautiful design and very comfortable."
+      },
+      {
+        "id": 1902,
+        "name": "ethan",
+        "rating": 4.5,
+        "comment": "Great quality and value for money."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wood sofa",
+        "model-number": "AD-900",
+        "secondary-material": "Fabric",
+        "configuration": "3-Seater",
+        "upholstery-material": "Fabric",
+        "upholstery-color": "Orange"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "250kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "180cm",
+        "height": "90cm",
+        "depth": "95cm",
+        "weight": "70kg",
+        "seat-height": "45cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@andromedasofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "procyon",
+    "price": 40000,
+    "type": "fabric",
+    "img": "img/procyon.jpg",
+    "quantity": 2,
+    "size": ["M", "L", "XL"],
+    "category": "sofa",
+    "color": ["#7FFF00", "#D2691E", "#1E90FF"],
+    "tags": ["sofa", "fabric", "modern"],
+    "created-at": "2022-11-10 00:00:00",
+    "description": "The Procyon fabric sofa offers a blend of comfort and style with its soft fabric upholstery and modern design. Perfect for any living space.",
+    "additional-information": "Removable and washable covers for easy maintenance.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 2001,
+        "name": "isabella",
+        "rating": 4.6,
+        "comment": "Very comfortable and easy to clean."
+      },
+      {
+        "id": 2002,
+        "name": "liam",
+        "rating": 4.4,
+        "comment": "Stylish and practical for everyday use."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 fabric sofa",
+        "model-number": "PC-1000",
+        "secondary-material": "Metal",
+        "configuration": "2-Seater",
+        "upholstery-material": "Fabric",
+        "upholstery-color": "Green"
+      },
+      "product": {
+        "filling-material": "Foam",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "200kg",
+        "origin-of-manufacture": "Vietnam"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "85cm",
+        "depth": "90cm",
+        "weight": "50kg",
+        "seat-height": "40cm",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@procyonsofas.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "vortex",
+    "price": 15000,
+    "type": "wood",
+    "img": "img/vortex.jpg",
+    "quantity": 2,
+    "size": ["M", "L"],
+    "category": "table",
+    "color": ["#8B4513", "#FFD700"],
+    "tags": ["table", "wood", "dining"],
+    "created-at": "2022-09-15 00:00:00",
+    "description": "The Vortex wooden dining table offers a blend of classic style and modern design. Perfect for family dinners and gatherings.",
+    "additional-information": "Made from high-quality oak wood.",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": 2101,
+        "name": "olivia",
+        "rating": 4.5,
+        "comment": "Beautiful design and very sturdy."
+      },
+      {
+        "id": 2102,
+        "name": "liam",
+        "rating": 4.1,
+        "comment": "Great quality and value for money."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 dining table",
+        "model-number": "VT-300",
+        "secondary-material": "N/A",
+        "configuration": "4-Seater",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "100kg",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "120cm",
+        "height": "75cm",
+        "depth": "80cm",
+        "weight": "25kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vortextables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "novares",
+    "price": 12000,
+    "type": "metal",
+    "img": "img/novares.jpg",
+    "quantity": 3,
+    "size": ["S", "M"],
+    "category": "table",
+    "color": ["#1E90FF", "#00008B"],
+    "tags": ["table", "metal", "modern"],
+    "created-at": "2022-08-20 00:00:00",
+    "description": "The Novares metal table is perfect for modern living rooms. Its sleek design and sturdy construction make it a great addition to any space.",
+    "additional-information": "Easy to assemble and maintain.",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "id": 2201,
+        "name": "emma",
+        "rating": 4.3,
+        "comment": "Stylish and functional."
+      },
+      {
+        "id": 2202,
+        "name": "noah",
+        "rating": 4.1,
+        "comment": "Great for small spaces."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 metal table",
+        "model-number": "NV-200",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "80kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "100cm",
+        "height": "70cm",
+        "depth": "50cm",
+        "weight": "15kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novarestables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "lyrafer",
+    "price": 18000,
+    "type": "glass",
+    "img": "img/lyrafer.jpg",
+    "quantity": 1,
+    "size": ["L", "XL"],
+    "category": "table",
+    "color": ["#FFFFFF", "#C0C0C0"],
+    "tags": ["table", "glass", "elegant"],
+    "created-at": "2022-07-30 00:00:00",
+    "description": "The Lyrafer glass table adds a touch of elegance to any dining room. Its sleek design and glass top make it a centerpiece for any meal.",
+    "additional-information": "Tempered glass for durability and safety.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 2301,
+        "name": "ava",
+        "rating": 4.6,
+        "comment": "Elegant and sturdy."
+      },
+      {
+        "id": 2302,
+        "name": "oliver",
+        "rating": 4.4,
+        "comment": "Beautiful design and easy to clean."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 glass table",
+        "model-number": "LY-400",
+        "secondary-material": "Metal",
+        "configuration": "6-Seater",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "150kg",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "75cm",
+        "depth": "90cm",
+        "weight": "50kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyratables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "vegader",
+    "price": 25000,
+    "type": "marble",
+    "img": "img/vegader.jpg",
+    "quantity": 1,
+    "size": ["M"],
+    "category": "table",
+    "color": ["#8B0000", "#696969"],
+    "tags": ["table", "marble", "luxury"],
+    "created-at": "2022-06-15 00:00:00",
+    "description": "The Vegader marble table brings luxury and sophistication to any dining area. Its marble top and sturdy base ensure durability and elegance.",
+    "additional-information": "High-quality marble for a luxurious finish.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 2401,
+        "name": "sophia",
+        "rating": 4.8,
+        "comment": "Absolutely stunning and well-made."
+      },
+      {
+        "id": 2402,
+        "name": "liam",
+        "rating": 4.6,
+        "comment": "Great for elegant dinners."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 marble table",
+        "model-number": "VG-500",
+        "secondary-material": "Metal",
+        "configuration": "4-Seater",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "200kg",
+        "origin-of-manufacture": "Greece"
+      },
+      "dimensions": {
+        "width": "130cm",
+        "height": "75cm",
+        "depth": "80cm",
+        "weight": "60kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegatables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "antareska",
+    "price": 14000,
+    "type": "wood",
+    "img": "img/antareska.jpg",
+    "quantity": 2,
+    "size": ["S", "M"],
+    "category": "table",
+    "color": ["#2E8B57", "#8FBC8F"],
+    "tags": ["table", "wood", "study"],
+    "created-at": "2022-05-10 00:00:00",
+    "description": "The Antareska study table is ideal for students and professionals. Its ergonomic design and ample workspace make it perfect for studying and working from home.",
+    "additional-information": "Eco-friendly wood with a smooth finish.",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": 2501,
+        "name": "mia",
+        "rating": 4.5,
+        "comment": "Perfect for my study room."
+      },
+      {
+        "id": 2502,
+        "name": "jackson",
+        "rating": 4.3,
+        "comment": "Good quality and spacious."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 study table",
+        "model-number": "AT-600",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "70kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "110cm",
+        "height": "75cm",
+        "depth": "60cm",
+        "weight": "20kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@antarestables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "siralop",
+    "price": 13000,
+    "type": "wood",
+    "img": "img/silarop.jpg",
+    "quantity": 3,
+    "size": ["S", "M"],
+    "category": "table",
+    "color": ["#4682B4", "#5F9EA0"],
+    "tags": ["table", "wood", "outdoor"],
+    "created-at": "2022-04-20 00:00:00",
+    "description": "The Silarop outdoor table is perfect for patios and gardens. Its sturdy wood frame and weather-resistant finish make it ideal for outdoor use.",
+    "additional-information": "Rust-resistant and easy to clean.",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": 2601,
+        "name": "isabella",
+        "rating": 4.4,
+        "comment": "Great for my patio."
+      },
+      {
+        "id": 2602,
+        "name": "james",
+        "rating": 4.2,
+        "comment": "Sturdy and weatherproof."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 outdoor table",
+        "model-number": "PL-700",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "90kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "100cm",
+        "height": "75cm",
+        "depth": "60cm",
+        "weight": "18kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polaristables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "oron",
+    "price": 17000,
+    "type": "wood",
+    "img": "img/oron.jpg",
+    "quantity": 2,
+    "size": ["M", "L"],
+    "category": "table",
+    "color": ["#A52A2A", "#8B4513"],
+    "tags": ["table", "wood", "office"],
+    "created-at": "2022-03-15 00:00:00",
+    "description": "The Oron office table is designed for professionals. Its spacious design and multiple drawers make it ideal for any home office or corporate setting.",
+    "additional-information": "Made from premium teak wood.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 2701,
+        "name": "amelia",
+        "rating": 4.6,
+        "comment": "Perfect for my home office."
+      },
+      {
+        "id": 2702,
+        "name": "mason",
+        "rating": 4.4,
+        "comment": "High quality and functional."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 office table",
+        "model-number": "OR-800",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "100kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "140cm",
+        "height": "75cm",
+        "depth": "70cm",
+        "weight": "35kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@oriontables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "Puliris",
+    "price": 25000,
+    "type": "wood",
+    "img": "img/puliris.jpg",
+    "quantity": 1,
+    "size": ["M", "L"],
+    "category": "table",
+    "color": ["#A52A2A", "#8B4513"],
+    "tags": ["table", "wood", "office"],
+    "created-at": "2022-03-15 00:00:00",
+    "description": "The Puliris office table is designed for professionals. Its spacious design and multiple drawers make it ideal for any home office or corporate setting.",
+    "additional-information": "Made from premium teak wood.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 2801,
+        "name": "amelia",
+        "rating": 4.6,
+        "comment": "Perfect for my home office."
+      },
+      {
+        "id": 2802,
+        "name": "mason",  
+        "rating": 4.4,
+        "comment": "High quality and functional."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 office table",
+        "model-number": "PL-700",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "90kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "100cm",
+        "height": "75cm",
+        "depth": "60cm",
+        "weight": "18kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@oriontables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "capella",
+    "price": 14000,
+    "type": "plastic",
+    "img": "img/capella.jpg",
+    "quantity": 5,
+    "size": ["S", "M"],
+    "category": "table",
+    "color": ["#32CD32", "#98FB98"],
+    "tags": ["table", "plastic", "kids"],
+    "created-at": "2022-02-10 00:00:00",
+    "description": "The Capella kids table is colorful and safe, perfect for playrooms and classrooms. Its sturdy design ensures it can handle the most energetic activities.",
+    "additional-information": "Made from non-toxic, durable plastic.",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": 2901,
+        "name": "emma",
+        "rating": 4.4,
+        "comment": "My kids love it."
+      },
+      {
+        "id": 2902,
+        "name": "oliver",
+        "rating": 4.2,
+        "comment": "Great quality and very safe."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 kids table",
+        "model-number": "CP-900",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "50kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "60cm",
+        "height": "50cm",
+        "depth": "60cm",
+        "weight": "5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@capellatables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "phoenix",
+    "price": 22000,
+    "type": "wood",
+    "img": "img/phoenix.jpg",
+    "quantity": 1,
+    "size": ["M", "L"],
+    "category": "table",
+    "color": ["#A52A2A", "#D2691E"],
+    "tags": ["table", "wood", "conference"],
+    "created-at": "2022-01-01 00:00:00",
+    "description": "The Phoenix conference table is designed for modern offices. Its large surface and solid construction make it perfect for meetings and discussions.",
+    "additional-information": "High-quality wood with a smooth finish.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 3001,
+        "name": "harper",
+        "rating": 4.7,
+        "comment": "Perfect for our office meetings."
+      },
+      {
+        "id": 3002,
+        "name": "jackson",
+        "rating": 4.5,
+        "comment": "Spacious and well-built."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 conference table",
+        "model-number": "PX-1000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "150kg",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "240cm",
+        "height": "75cm",
+        "depth": "120cm",
+        "weight": "80kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@phoenixtables.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  }
+
+  
+]
+
