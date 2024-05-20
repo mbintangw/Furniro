@@ -31,3 +31,11 @@ h5 {
 p {
   @apply text-[16px] font-normal
 }
+
+button.fill{
+  @apply bg-primary text-white w-44 h-12 py-3 px-9
+}
+
+button.fill:hover{
+  @apply bg-yellow-400 text-black
+}
