@@ -7,7 +7,7 @@ import { NavLink } from 'react-router-dom'
 
 const Header = () => {
   return (
-    <header className='bg-red-400'>
+    <header className=''>
       <div className='flex flex-row justify-between container mx-auto items-center h-[80px] '>
         <h1 className='text-[32px]'> Furniro. </h1>
         <nav className='flex flex-row w-[430px] justify-between'>
@@ -18,9 +18,9 @@ const Header = () => {
         </nav>
         <div className='flex flex-row gap-11'>
           <img src={account}/>
-          <img src={cart}/>
-          <img src={heart}/>
           <img src={search}/>
+          <img src={heart}/>
+          <img src={cart}/>
         </div>
       </div>
     </header>

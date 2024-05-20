@@ -1856,6 +1856,1246 @@
         "domestic-warranty": "3 Years"
       }
     }
+  },
+  {
+    "id": 31,
+    "name": "Zephyr",
+    "price": 18000,
+    "type": "wood",
+    "img": "img/zephyr.jpg",
+    "quantity": 3,
+    "size": ["S", "M", "L"],
+    "category": "wardrobe",
+    "color": ["#8B4513", "#D2691E"],
+    "tags": ["wardrobe", "wood", "bedroom"],
+    "created-at": "2022-05-01 00:00:00",
+    "description": "The Zephyr wardrobe combines classic design with modern functionality. Ideal for any bedroom setting.",
+    "additional-information": "Made from premium oak wood with a smooth finish.",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "id": 3101,
+        "name": "olivia",
+        "rating": 4.3,
+        "comment": "Spacious and beautifully crafted."
+      },
+      {
+        "id": 3102,
+        "name": "noah",
+        "rating": 4.1,
+        "comment": "Sturdy and stylish."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "ZP-1000",
+        "secondary-material": "N/A",
+        "configuration": "2-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "200kg",
+        "origin-of-manufacture": "Poland"
+      },
+      "dimensions": {
+        "width": "100cm",
+        "height": "200cm",
+        "depth": "60cm",
+        "weight": "50kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@zephyrwardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "Lynx",
+    "price": 22000,
+    "type": "wood",
+    "img": "img/lynx.jpg",
+    "quantity": 2,
+    "size": ["M", "L", "XL"],
+    "category": "wardrobe",
+    "color": ["#708090", "#A9A9A9"],
+    "tags": ["wardrobe", "wood", "modern"],
+    "created-at": "2022-06-15 00:00:00",
+    "description": "The Lynx wardrobe features a sleek and modern design with durable wood construction. Perfect for contemporary spaces.",
+    "additional-information": "Powder-coated finish for added durability.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 3201,
+        "name": "james",
+        "rating": 4.6,
+        "comment": "Sturdy and modern."
+      },
+      {
+        "id": 3202,
+        "name": "ava",
+        "rating": 4.4,
+        "comment": "Great storage capacity."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "LX-2000",
+        "secondary-material": "N/A",
+        "configuration": "2-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "180kg",
+        "origin-of-manufacture": "Germany"
+      },
+      "dimensions": {
+        "width": "120cm",
+        "height": "200cm",
+        "depth": "60cm",
+        "weight": "55kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lynxwardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "Orano",
+    "price": 28000,
+    "type": "wood",
+    "img": "img/orano.jpg",
+    "quantity": 1,
+    "size": ["L", "XL"],
+    "category": "wardrobe",
+    "color": ["#4B0082", "#800080"],
+    "tags": ["wardrobe", "wood", "luxury"],
+    "created-at": "2022-07-20 00:00:00",
+    "description": "The Orano wardrobe stands out with its luxurious design and premium materials. Ideal for those who appreciate fine craftsmanship.",
+    "additional-information": "Handcrafted from the finest walnut wood.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 3301,
+        "name": "isabella",
+        "rating": 4.9,
+        "comment": "Absolutely stunning and very spacious."
+      },
+      {
+        "id": 3302,
+        "name": "ethan",
+        "rating": 4.7,
+        "comment": "High quality and beautiful finish."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "ON-3000",
+        "secondary-material": "N/A",
+        "configuration": "3-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "250kg",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "220cm",
+        "depth": "70cm",
+        "weight": "70kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "5 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionwardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "name": "Riapol",
+    "price": 15000,
+    "type": "wood",
+    "img": "img/riapol.jpg",
+    "quantity": 5,
+    "size": ["S", "M"],
+    "category": "wardrobe",
+    "color": ["#FFFFFF", "#C0C0C0"],
+    "tags": ["wardrobe", "wood", "kids"],
+    "created-at": "2022-08-10 00:00:00",
+    "description": "The Riapol wardrobe is perfect for children's rooms, offering bright colors and a sturdy design.",
+    "additional-information": "Made from durable, non-toxic wood.",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": 3401,
+        "name": "sophia",
+        "rating": 4.4,
+        "comment": "Perfect for my kids' room."
+      },
+      {
+        "id": 3402,
+        "name": "michael",
+        "rating": 4.2,
+        "comment": "Lightweight and easy to assemble."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "PL-4000",
+        "secondary-material": "N/A",
+        "configuration": "2-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "100kg",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "80cm",
+        "height": "180cm",
+        "depth": "50cm",
+        "weight": "20kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polariswardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "Avno",
+    "price": 20000,
+    "type": "wood",
+    "img": "img/avno.jpg",
+    "quantity": 3,
+    "size": ["M", "L", "XL"],
+    "category": "wardrobe",
+    "color": ["#808080", "#A9A9A9"],
+    "tags": ["wardrobe", "wood", "modern"],
+    "created-at": "2022-09-05 00:00:00",
+    "description": "The Avno wardrobe boasts a sleek wood design with ample storage space, perfect for modern homes.",
+    "additional-information": "Anti-rust coating for added durability.",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": 3501,
+        "name": "william",
+        "rating": 4.5,
+        "comment": "Stylish and durable."
+      },
+      {
+        "id": 3502,
+        "name": "mia",
+        "rating": 4.3,
+        "comment": "Fits perfectly in my modern apartment."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "NV-5000",
+        "secondary-material": "N/A",
+        "configuration": "2-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "150kg",
+        "origin-of-manufacture": "Germany"
+      },
+      "dimensions": {
+        "width": "120cm",
+        "height": "200cm",
+        "depth": "60cm",
+        "weight": "40kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novawardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "Celeste",
+    "price": 23000,
+    "type": "wood",
+    "img": "img/celeste.jpg",
+    "quantity": 1,
+    "size": ["L", "XL"],
+    "category": "wardrobe",
+    "color": ["#B8860B", "#FFD700"],
+    "tags": ["wardrobe", "wood", "luxury"],
+    "created-at": "2022-10-10 00:00:00",
+    "description": "The Celeste wardrobe offers a luxurious design with intricate woodwork and ample storage.",
+    "additional-information": "Handcrafted from premium teak wood.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 3601,
+        "name": "charlotte",
+        "rating": 4.8,
+        "comment": "Absolutely love the design and quality."
+      },
+      {
+        "id": 3602,
+        "name": "benjamin",
+        "rating": 4.6,
+        "comment": "Elegant and spacious."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "CL-6000",
+        "secondary-material": "N/A",
+        "configuration": "3-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "240kg",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "140cm",
+        "height": "210cm",
+        "depth": "65cm",
+        "weight": "65kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "4 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@celestewardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "4 Years"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "Tegar",
+    "price": 21000,
+    "type": "wood",
+    "img": "img/tegar.jpg",
+    "quantity": 2,
+    "size": ["M", "L", "XL"],
+    "category": "wardrobe",
+    "color": ["#2F4F4F", "#696969"],
+    "tags": ["wardrobe", "wood", "industrial"],
+    "created-at": "2022-11-15 00:00:00",
+    "description": "The Tegar wardrobe features a rugged, industrial design with a robust wood build. Perfect for loft-style living.",
+    "additional-information": "Coated with anti-rust treatment.",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": 3701,
+        "name": "lucas",
+        "rating": 4.5,
+        "comment": "Very durable and stylish."
+      },
+      {
+        "id": 3702,
+        "name": "amelia",
+        "rating": 4.3,
+        "comment": "Fits perfectly with my industrial decor."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "VG-7000",
+        "secondary-material": "N/A",
+        "configuration": "2-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "160kg",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "110cm",
+        "height": "200cm",
+        "depth": "60cm",
+        "weight": "45kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegawardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "Tuoni",
+    "price": 28000,
+    "type": "wood",
+    "img": "img/tuoni.jpg",
+    "quantity": 1,
+    "size": ["L", "XL"],
+    "category": "wardrobe",
+    "color": ["#4B0082", "#800080"],
+    "tags": ["wardrobe", "wood", "luxury"],
+    "created-at": "2022-07-20 00:00:00",
+    "description": "The Tuoni wardrobe stands out with its luxurious design and premium materials. Ideal for those who appreciate fine craftsmanship.",
+    "additional-information": "Handcrafted from the finest walnut wood.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 3801,
+        "name": "isabella",
+        "rating": 4.9,
+        "comment": "Absolutely stunning and very spacious."
+      },
+      {
+        "id": 3802,
+        "name": "ethan",
+        "rating": 4.7,
+        "comment": "High quality and beautiful finish."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "ON-3000",
+        "secondary-material": "N/A",
+        "configuration": "3-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "250kg",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "220cm",
+        "depth": "70cm",
+        "weight": "70kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "5 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionwardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "Lope",
+    "price": 26000,
+    "type": "wood",
+    "img": "img/lope.jpg",
+    "quantity": 2,
+    "size": ["M", "L", "XL"],
+    "category": "wardrobe",
+    "color": ["#8B4513", "#D2691E"],
+    "tags": ["wardrobe", "wood", "vintage"],
+    "created-at": "2022-12-01 00:00:00",
+    "description": "The Lope wardrobe offers a vintage charm with modern functionality. Made from high-quality mahogany.",
+    "additional-information": "Features antique brass handles.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 3901,
+        "name": "emma",
+        "rating": 4.7,
+        "comment": "Beautiful vintage design."
+      },
+      {
+        "id": 3902,
+        "name": "liam",
+        "rating": 4.5,
+        "comment": "Solid build and great aesthetics."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "LY-8000",
+        "secondary-material": "N/A",
+        "configuration": "2-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "220kg",
+        "origin-of-manufacture": "Brazil"
+      },
+      "dimensions": {
+        "width": "130cm",
+        "height": "210cm",
+        "depth": "65cm",
+        "weight": "60kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "4 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrawardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "4 Years"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "name": "Cassoerp",
+    "price": 30000,
+    "type": "wood",
+    "img": "img/cassoerp.jpg",
+    "quantity": 1,
+    "size": ["L", "XL"],
+    "category": "wardrobe",
+    "color": ["#4B0082", "#800080"],
+    "tags": ["wardrobe", "wood", "luxury"],
+    "created-at": "2023-01-10 00:00:00",
+    "description": "The Cassoerp wardrobe is designed for those who desire luxury and elegance in their home.",
+    "additional-information": "Handcrafted from premium walnut wood with intricate carvings.",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "id": 4001,
+        "name": "isabella",
+        "rating": 5.0,
+        "comment": "Absolutely stunning and very spacious."
+      },
+      {
+        "id": 4002,
+        "name": "ethan",
+        "rating": 4.8,
+        "comment": "High quality and beautiful finish."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 wardrobe",
+        "model-number": "CS-3000",
+        "secondary-material": "N/A",
+        "configuration": "3-Door",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "No",
+        "maximum-load-capacity": "250kg",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "150cm",
+        "height": "220cm",
+        "depth": "70cm",
+        "weight": "70kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "5 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiawardrobes.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "name": "Lumos",
+    "price": 5000,
+    "type": "wood",
+    "img": "img/lumos.jpg",
+    "quantity": 10,
+    "size": ["S", "M"],
+    "category": "lamp",
+    "color": ["#FFFFFF", "#FFD700"],
+    "tags": ["lamp", "wood", "vintage"],
+    "created-at": "2023-03-01 00:00:00",
+    "description": "The Lumos lamp features a vintage wooden design, perfect for cozy spaces.",
+    "additional-information": "Energy-efficient LED bulb included.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 4101,
+        "name": "james",
+        "rating": 4.6,
+        "comment": "Beautiful design and great lighting."
+      },
+      {
+        "id": 4102,
+        "name": "olivia",
+        "rating": 4.4,
+        "comment": "Perfect addition to my living room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "LM-1000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "20cm",
+        "height": "50cm",
+        "depth": "20cm",
+        "weight": "2kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lumoslamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "name": "Aurora",
+    "price": 8000,
+    "type": "metal",
+    "img": "img/aurora.jpg",
+    "quantity": 5,
+    "size": ["M", "L"],
+    "category": "lamp",
+    "color": ["#000000", "#808080"],
+    "tags": ["lamp", "metal", "modern"],
+    "created-at": "2023-04-01 00:00:00",
+    "description": "The Aurora lamp combines modern design with functionality, perfect for contemporary homes.",
+    "additional-information": "Dimmable LED bulb included.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 4201,
+        "name": "emma",
+        "rating": 4.8,
+        "comment": "Sleek and stylish."
+      },
+      {
+        "id": 4202,
+        "name": "liam",
+        "rating": 4.6,
+        "comment": "High-quality and looks great."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "AR-2000",
+        "secondary-material": "N/A",
+        "configuration": "Floor Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Germany"
+      },
+      "dimensions": {
+        "width": "30cm",
+        "height": "150cm",
+        "depth": "30cm",
+        "weight": "5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@auroralamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "name": "Stellar",
+    "price": 7000,
+    "type": "glass",
+    "img": "img/stellar.jpg",
+    "quantity": 7,
+    "size": ["S", "M"],
+    "category": "lamp",
+    "color": ["#FFFFFF", "#FF5733"],
+    "tags": ["lamp", "glass", "elegant"],
+    "created-at": "2023-05-01 00:00:00",
+    "description": "The Stellar lamp features a beautiful glass design, adding an elegant touch to any room.",
+    "additional-information": "LED bulb included.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 4301,
+        "name": "noah",
+        "rating": 4.7,
+        "comment": "Elegant and bright."
+      },
+      {
+        "id": 4302,
+        "name": "ava",
+        "rating": 4.5,
+        "comment": "Lovely design and good lighting."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "ST-3000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "25cm",
+        "height": "45cm",
+        "depth": "25cm",
+        "weight": "3kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@stellarlamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "name": "Helios",
+    "price": 9000,
+    "type": "metal",
+    "img": "img/helios.jpg",
+    "quantity": 8,
+    "size": ["M", "L"],
+    "category": "lamp",
+    "color": ["#000000", "#FF4500"],
+    "tags": ["lamp", "metal", "modern"],
+    "created-at": "2023-06-01 00:00:00",
+    "description": "The Helios lamp is designed with a modern aesthetic, providing excellent illumination.",
+    "additional-information": "Adjustable brightness settings.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 4401,
+        "name": "logan",
+        "rating": 4.9,
+        "comment": "Modern and very bright."
+      },
+      {
+        "id": 4402,
+        "name": "mia",
+        "rating": 4.7,
+        "comment": "Great for my study."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "HL-4000",
+        "secondary-material": "N/A",
+        "configuration": "Floor Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "USA"
+      },
+      "dimensions": {
+        "width": "35cm",
+        "height": "160cm",
+        "depth": "35cm",
+        "weight": "4kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@helioslamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vegakit",
+    "price": 6500,
+    "type": "plastic",
+    "img": "img/vegakit.jpg",
+    "quantity": 12,
+    "size": ["S", "M"],
+    "category": "lamp",
+    "color": ["#00CED1", "#FF69B4"],
+    "tags": ["lamp", "plastic", "colorful"],
+    "created-at": "2023-07-01 00:00:00",
+    "description": "The Vegakit lamp is perfect for adding a splash of color to any room, with its vibrant design.",
+    "additional-information": "Energy-saving LED bulb included.",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": 4501,
+        "name": "lucas",
+        "rating": 4.5,
+        "comment": "Bright and cheerful."
+      },
+      {
+        "id": 4502,
+        "name": "ella",
+        "rating": 4.3,
+        "comment": "Lovely colors, great for my kids' room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "VG-5000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "20cm",
+        "height": "40cm",
+        "depth": "20cm",
+        "weight": "1.5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegalamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "name": "ptyur",
+    "price": 10000,
+    "type": "metal",
+    "img": "img/ptyur.jpg",
+    "quantity": 3,
+    "size": ["M", "L"],
+    "category": "lamp",
+    "color": ["#FFD700", "#4B0082"],
+    "tags": ["lamp", "metal", "luxury"],
+    "created-at": "2023-08-01 00:00:00",
+    "description": "The Ptyur lamp offers a luxurious design with a high-quality metal finish, perfect for upscale interiors.",
+    "additional-information": "Includes dimmable LED bulb.",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "id": 4601,
+        "name": "amelia",
+        "rating": 5.0,
+        "comment": "Elegant and top-notch quality."
+      },
+      {
+        "id": 4602,
+        "name": "jackson",
+        "rating": 4.8,
+        "comment": "Perfect for my office."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "OR-6000",
+        "secondary-material": "N/A",
+        "configuration": "Floor Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "35cm",
+        "height": "160cm",
+        "depth": "35cm",
+        "weight": "4kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "3 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionlamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "name": "Jungkin",
+    "price": 7500,
+    "type": "wood",
+    "img": "img/jungkin.jpg",
+    "quantity": 9,
+    "size": ["S", "M"],
+    "category": "lamp",
+    "color": ["#A52A2A", "#8B4513"],
+    "tags": ["lamp", "wood", "rustic"],
+    "created-at": "2023-09-01 00:00:00",
+    "description": "The Jungkin lamp features a rustic wooden design, adding warmth to any room.",
+    "additional-information": "Includes energy-saving LED bulb.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 4701,
+        "name": "benjamin",
+        "rating": 4.7,
+        "comment": "Beautiful rustic look."
+      },
+      {
+        "id": 4702,
+        "name": "sophia",
+        "rating": 4.5,
+        "comment": "Great addition to my cabin."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "PL-7000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Canada"
+      },
+      "dimensions": {
+        "width": "22cm",
+        "height": "50cm",
+        "depth": "22cm",
+        "weight": "2.5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarislamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "name": "Novaty",
+    "price": 5500,
+    "type": "plastic",
+    "img": "img/novaty.jpg",
+    "quantity": 15,
+    "size": ["S", "M"],
+    "category": "lamp",
+    "color": ["#FF4500", "#FFD700"],
+    "tags": ["lamp", "plastic", "modern"],
+    "created-at": "2023-10-01 00:00:00",
+    "description": "The Novaty lamp offers a modern design with vibrant colors, ideal for any contemporary space.",
+    "additional-information": "Includes energy-efficient LED bulb.",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "id": 4801,
+        "name": "henry",
+        "rating": 4.4,
+        "comment": "Bright and modern."
+      },
+      {
+        "id": 4802,
+        "name": "ava",
+        "rating": 4.2,
+        "comment": "Looks great in my living room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "NV-8000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "18cm",
+        "height": "40cm",
+        "depth": "18cm",
+        "weight": "1.8kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novalamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "name": "Celestial",
+    "price": 8500,
+    "type": "metal",
+    "img": "img/celestial.jpg",
+    "quantity": 6,
+    "size": ["M", "L"],
+    "category": "lamp",
+    "color": ["#FFFFFF", "#B0E0E6"],
+    "tags": ["lamp", "metal", "elegant"],
+    "created-at": "2023-11-01 00:00:00",
+    "description": "The Celestial lamp features an elegant metal design, perfect for any sophisticated interior.",
+    "additional-information": "Energy-saving LED bulb included.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 4901,
+        "name": "joseph",
+        "rating": 4.8,
+        "comment": "Elegant and classy."
+      },
+      {
+        "id": 4902,
+        "name": "isabella",
+        "rating": 4.6,
+        "comment": "Looks stunning in my bedroom."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "CL-9000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "France"
+      },
+      "dimensions": {
+        "width": "25cm",
+        "height": "50cm",
+        "depth": "25cm",
+        "weight": "3kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "2 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@celestiallamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "2 Years"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "name": "Radiance",
+    "price": 6000,
+    "type": "metal",
+    "img": "img/radiance.jpg",
+    "quantity": 11,
+    "size": ["S", "M"],
+    "category": "lamp",
+    "color": ["#FFD700", "#00CED1"],
+    "tags": ["lamp", "metal", "colorful"],
+    "created-at": "2023-12-01 00:00:00",
+    "description": "The Radiance lamp is designed to add a pop of color to any room, with a vibrant and modern look.",
+    "additional-information": "Includes LED bulb.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 5001,
+        "name": "aiden",
+        "rating": 4.6,
+        "comment": "Bright and colorful, my kids love it."
+      },
+      {
+        "id": 5002,
+        "name": "sophia",
+        "rating": 4.4,
+        "comment": "Great for my home office."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 lamp",
+        "model-number": "RD-1000",
+        "secondary-material": "N/A",
+        "configuration": "Table Lamp",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "20cm",
+        "height": "40cm",
+        "depth": "20cm",
+        "weight": "1.5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@radiancelamps.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
   }
 
   
