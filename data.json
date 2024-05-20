@@ -3096,6 +3096,626 @@
         "domestic-warranty": "1 Year"
       }
     }
+  },
+  {
+    "id": 51,
+    "name": "Elegance",
+    "price": 3500,
+    "type": "ceramic",
+    "img": "img/elegance.jpg",
+    "quantity": 8,
+    "size": ["S", "M", "L"],
+    "category": "vase",
+    "color": ["#FFFFFF", "#000000"],
+    "tags": ["vase", "ceramic", "modern"],
+    "created-at": "2023-12-01 00:00:00",
+    "description": "The Elegance vase features a sleek design with a glossy finish, perfect for modern interiors.",
+    "additional-information": "Ideal for both fresh and artificial flowers.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 5101,
+        "name": "sophie",
+        "rating": 4.8,
+        "comment": "Beautiful and stylish."
+      },
+      {
+        "id": 5102,
+        "name": "liam",
+        "rating": 4.6,
+        "comment": "Looks great in my living room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "EL-1000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "15cm",
+        "height": "30cm",
+        "depth": "15cm",
+        "weight": "1.2kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@elegancevases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": "Harmony",
+    "price": 2700,
+    "type": "glass",
+    "img": "img/harmony.jpg",
+    "quantity": 10,
+    "size": ["S", "M"],
+    "category": "vase",
+    "color": ["#FF4500", "#FFD700"],
+    "tags": ["vase", "glass", "colorful"],
+    "created-at": "2023-11-01 00:00:00",
+    "description": "The Harmony vase offers a vibrant design with a colorful finish, perfect for brightening up any room.",
+    "additional-information": "Hand-blown glass for a unique look.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 5201,
+        "name": "lucas",
+        "rating": 4.6,
+        "comment": "Lovely colors and great quality."
+      },
+      {
+        "id": 5202,
+        "name": "emma",
+        "rating": 4.4,
+        "comment": "Adds a nice touch to my decor."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "HR-2000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Italy"
+      },
+      "dimensions": {
+        "width": "12cm",
+        "height": "25cm",
+        "depth": "12cm",
+        "weight": "1kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@harmonyvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "name": "Serenity",
+    "price": 3200,
+    "type": "ceramic",
+    "img": "img/serenity.jpg",
+    "quantity": 7,
+    "size": ["M", "L"],
+    "category": "vase",
+    "color": ["#8B4513", "#A52A2A"],
+    "tags": ["vase", "ceramic", "rustic"],
+    "created-at": "2023-10-01 00:00:00",
+    "description": "The Serenity vase features a rustic ceramic design, adding a warm touch to any home.",
+    "additional-information": "Perfect for dried flowers or as a standalone piece.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 5301,
+        "name": "mason",
+        "rating": 4.7,
+        "comment": "Beautiful rustic design."
+      },
+      {
+        "id": 5302,
+        "name": "ava",
+        "rating": 4.5,
+        "comment": "Looks great in my dining room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "SR-3000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Spain"
+      },
+      "dimensions": {
+        "width": "18cm",
+        "height": "35cm",
+        "depth": "18cm",
+        "weight": "1.5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@serenityvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "name": "Bliss",
+    "price": 2900,
+    "type": "glass",
+    "img": "img/bliss.jpg",
+    "quantity": 9,
+    "size": ["S", "M"],
+    "category": "vase",
+    "color": ["#00CED1", "#FF69B4"],
+    "tags": ["vase", "glass", "colorful"],
+    "created-at": "2023-09-01 00:00:00",
+    "description": "The Bliss vase is a colorful glass piece that adds a cheerful touch to any room.",
+    "additional-information": "Handcrafted for a unique finish.",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "id": 5401,
+        "name": "oliver",
+        "rating": 4.5,
+        "comment": "Bright and beautiful."
+      },
+      {
+        "id": 5402,
+        "name": "mia",
+        "rating": 4.3,
+        "comment": "Perfect for my flowers."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "BL-4000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "India"
+      },
+      "dimensions": {
+        "width": "14cm",
+        "height": "28cm",
+        "depth": "14cm",
+        "weight": "1.1kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@blissvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "name": "Zenith",
+    "price": 3100,
+    "type": "ceramic",
+    "img": "img/zenith.jpg",
+    "quantity": 6,
+    "size": ["M", "L"],
+    "category": "vase",
+    "color": ["#8A2BE2", "#9370DB"],
+    "tags": ["vase", "ceramic", "elegant"],
+    "created-at": "2023-08-01 00:00:00",
+    "description": "The Zenith vase has an elegant ceramic design, suitable for sophisticated interiors.",
+    "additional-information": "High-quality glaze for a long-lasting finish.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 5501,
+        "name": "james",
+        "rating": 4.9,
+        "comment": "Absolutely stunning."
+      },
+      {
+        "id": 5502,
+        "name": "amelia",
+        "rating": 4.7,
+        "comment": "Adds a touch of class to my home."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "ZN-5000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Portugal"
+      },
+      "dimensions": {
+        "width": "20cm",
+        "height": "32cm",
+        "depth": "20cm",
+        "weight": "1.3kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@zenithvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "name": "Radiant",
+    "price": 2800,
+    "type": "glass",
+    "img": "img/radiant.jpg",
+    "quantity": 12,
+    "size": ["S", "M"],
+    "category": "vase",
+    "color": ["#FF6347", "#FF4500"],
+    "tags": ["vase", "glass", "bright"],
+    "created-at": "2023-07-01 00:00:00",
+    "description": "The Radiant vase brings a bright and cheerful ambiance to any room with its vibrant glass design.",
+    "additional-information": "Ideal for fresh flowers.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": 5601,
+        "name": "harper",
+        "rating": 4.6,
+        "comment": "Vibrant and beautiful."
+      },
+      {
+        "id": 5602,
+        "name": "elijah",
+        "rating": 4.4,
+        "comment": "Adds a nice touch to my decor."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "RD-6000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "China"
+      },
+      "dimensions": {
+        "width": "16cm",
+        "height": "29cm",
+        "depth": "16cm",
+        "weight": "1.1kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@radiantvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "name": "Rora",
+    "price": 3500,
+    "type": "ceramic",
+    "img": "img/rora.jpg",
+    "quantity": 5,
+    "size": ["M", "L"],
+    "category": "vase",
+    "color": ["#7FFFD4", "#20B2AA"],
+    "tags": ["vase", "ceramic", "contemporary"],
+    "created-at": "2023-06-01 00:00:00",
+    "description": "The Rora vase offers a contemporary ceramic design, perfect for modern homes.",
+    "additional-information": "Durable and easy to clean.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "id": 5701,
+        "name": "lucy",
+        "rating": 4.9,
+        "comment": "Absolutely love it!"
+      },
+      {
+        "id": 5702,
+        "name": "logan",
+        "rating": 4.7,
+        "comment": "Perfect for my living room."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "AR-7000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Japan"
+      },
+      "dimensions": {
+        "width": "19cm",
+        "height": "31cm",
+        "depth": "19cm",
+        "weight": "1.4kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@auroravases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "name": "Luminous",
+    "price": 2900,
+    "type": "wood",
+    "img": "img/luminous.jpg",
+    "quantity": 8,
+    "size": ["S", "M"],
+    "category": "vase",
+    "color": ["#ADD8E6", "#4169E1"],
+    "tags": ["vase", "wood", "elegant"],
+    "created-at": "2023-05-01 00:00:00",
+    "description": "The Luminous vase is designed to bring an elegant touch to any room with its delicate wood design.",
+    "additional-information": "Perfect for fresh or artificial flowers.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "id": 5801,
+        "name": "jack",
+        "rating": 4.7,
+        "comment": "Stunning design and quality."
+      },
+      {
+        "id": 5802,
+        "name": "sophia",
+        "rating": 4.5,
+        "comment": "Looks great in my kitchen."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "LM-8000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Germany"
+      },
+      "dimensions": {
+        "width": "13cm",
+        "height": "27cm",
+        "depth": "13cm",
+        "weight": "1kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@luminousvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "name": "Tranquility",
+    "price": 3000,
+    "type": "wood",
+    "img": "img/tranquility.jpg",
+    "quantity": 4,
+    "size": ["M", "L"],
+    "category": "vase",
+    "color": ["#00FF7F", "#3CB371"],
+    "tags": ["vase", "wood", "soothing"],
+    "created-at": "2023-04-01 00:00:00",
+    "description": "The Tranquility vase brings a soothing and calming presence with its wood design.",
+    "additional-information": "Perfect for creating a peaceful atmosphere.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "id": 5901,
+        "name": "ethan",
+        "rating": 4.8,
+        "comment": "Very calming and beautiful."
+      },
+      {
+        "id": 5902,
+        "name": "olivia",
+        "rating": 4.6,
+        "comment": "Love the colors and design."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "TR-9000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Matte",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "Thailand"
+      },
+      "dimensions": {
+        "width": "17cm",
+        "height": "34cm",
+        "depth": "17cm",
+        "weight": "1.3kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@tranquilityvases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "name": "Opulence",
+    "price": 3800,
+    "type": "wood",
+    "img": "img/opulence.jpg",
+    "quantity": 3,
+    "size": ["L"],
+    "category": "vase",
+    "color": ["#DAA520", "#FFD700"],
+    "tags": ["vase", "wood", "luxury"],
+    "created-at": "2023-03-01 00:00:00",
+    "description": "The Opulence vase exudes luxury with its black wood design, perfect for upscale interiors.",
+    "additional-information": "Handcrafted for a unique touch.",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "id": 6001,
+        "name": "alex",
+        "rating": 5.0,
+        "comment": "Absolutely luxurious!"
+      },
+      {
+        "id": 6002,
+        "name": "emma",
+        "rating": 4.8,
+        "comment": "Perfect for my elegant decor."
+      }
+    ],
+    "detail": {
+      "general": {
+        "sales-package": "1 vase",
+        "model-number": "OP-10000",
+        "secondary-material": "N/A",
+        "configuration": "Standard",
+        "upholstery-material": "N/A",
+        "upholstery-color": "N/A"
+      },
+      "product": {
+        "filling-material": "N/A",
+        "finish-type": "Glossy",
+        "adjustable-headrest": "N/A",
+        "maximum-load-capacity": "N/A",
+        "origin-of-manufacture": "France"
+      },
+      "dimensions": {
+        "width": "22cm",
+        "height": "40cm",
+        "depth": "22cm",
+        "weight": "1.5kg",
+        "seat-height": "N/A",
+        "leg-height": "N/A"
+      },
+      "warranty": {
+        "warranty-summary": "1 Year Manufacturing Warranty",
+        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@opulencevases.com",
+        "covered-in-warranty": "Warranty Against Manufacturing Defect",
+        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic-warranty": "1 Year"
+      }
+    }
   }
 
   
