@@ -7,7 +7,7 @@ import lamp from '../../image/lamp/lumos.jpg'
 
 const Category = () => {
   return (
-    <div className='flex flex-col justify-center items-center mt-14 gap-[62px]'>
+    <div className='flex flex-col justify-center items-center gap-[62px]'>
       <div>
         <h1 className='text-center'>Browse The Range</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>

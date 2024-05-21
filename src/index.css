@@ -40,10 +40,43 @@ button.fill:hover{
   @apply bg-yellow-400 text-black
 }
 
+button.outline {
+  @apply bg-white text-primary  w-[245px] h-12 py-3 px-5
+}
+
+button.outline:hover {
+  @apply bg-primary text-white
+}
+
 .card-category {
   @apply w-[381px] h-[546px] flex flex-col gap-5
 }
 
 .card-category img {
   @apply object-cover h-full rounded-xl
+}
+
+.card-product {
+  @apply w-[285px] h-[446px] flex flex-col gap-4 relative;
+}
+
+.card-product {
+  @apply w-[285px] h-[446px] flex flex-col gap-4 relative;
+}
+
+.card-product img {
+  @apply w-full h-[290px] object-cover;
+}
+
+.card-product .overlay {
+  @apply absolute top-0 left-0 w-full h-full transition-all duration-150 flex items-center justify-center opacity-0 ;
+  z-index: 10;
+
+  img {
+    @apply w-4 h-4
+  }
+}
+
+.card-product:hover .overlay {
+  @apply bg-black/50 backdrop-blur-sm opacity-100;
 }
