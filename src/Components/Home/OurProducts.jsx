@@ -11,7 +11,7 @@ const OurProducts = () => {
   return (
     <div className='flex flex-col justify-center items-center gap-8'>
       <h1 className='text-[40px]'>Our Products</h1>
-      <div className='grid grid-cols-4 gap-8'>
+      <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-8'>
         {product.map((item,index) => (
           <div className='card-product' key={index}>
             <img src={item.image}/>

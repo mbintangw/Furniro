@@ -30,8 +30,8 @@ const Inspiration = () => {
   };
 
   return (
-    <div className='flex flex-row justify-evenly items-center'>
-      <div className='w-[422px] h-[151px]'>
+    <div className='flex  flex-col gap-20 lg:gap-0 lg:flex-row justify-evenly items-center'>
+      <div className='w-[422px] h-[151px] text-center lg:text-start'>
         <h1>50+ Beautiful rooms inspiration</h1>
         <p className='font-medium text-gray-500 mt-2'>Our designer already made a lot of beautiful prototipe of rooms that inspire you</p>
         <button className='fill mt-6'>Explore More</button>

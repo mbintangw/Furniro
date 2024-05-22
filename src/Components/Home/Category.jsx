@@ -8,11 +8,11 @@ import lamp from '../../image/lamp/lumos.jpg'
 const Category = () => {
   return (
     <div className='flex flex-col justify-center items-center gap-[62px]'>
-      <div>
-        <h1 className='text-center'>Browse The Range</h1>
+      <div className='text-center'>
+        <h1>Browse The Range</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
-      <div className='grid grid-cols-3 gap-5 text-center'>
+      <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-5 text-center'>
         <div className='card-category'>
           <img src={chair} alt="chair"/>
           <h2>Chair</h2>

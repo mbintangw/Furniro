@@ -3,9 +3,9 @@ import { NavLink } from 'react-router-dom'
 
 const Footer = () => {
   return (
-    <footer className='flex flex-col py-12 px-24 divide-y divide-[#D9D9D9] border-t mt-10'>
-      <div className='[&>*]:space-y-[50px] flex flex-row justify-between mb-12 gap-x-5'>
-        <div className='w-[290px]'>
+    <footer className='flex flex-col py-12 px-4 md:px-24 divide-y divide-[#D9D9D9] border-t mt-10'>
+      <div className='[&>*]:space-y-[50px] flex flex-col lg:flex-row justify-between mb-12 gap-x-5 gap-10'>
+        <div className='md:w-[290px] '>
           <h1>Funiro.</h1>
           <p className='text-[#9F9F9F]'>400 University Drive Suite 200 Coral Gables,FL 33134 USA</p>
         </div>
