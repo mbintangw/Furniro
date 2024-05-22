@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../Components/Header'
+import Footer from '../Components/Footer'
 
 const MainLayout = (porps) => {
   return (
@@ -8,6 +9,7 @@ const MainLayout = (porps) => {
       <main>
         {porps.children}
       </main>
+      <Footer/>
     </div>
   )
 }
