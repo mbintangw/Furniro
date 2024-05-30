@@ -1552,7 +1552,7 @@
     "name": "Siralop",
     "price": 13000,
     "type": "wood",
-    "image": "/src/image/table/silarop.jpg",
+    "image": "/src/image/table/siralop.jpg",
     "quantity": 3,
     "size": ["S", "M"],
     "category": "table",
