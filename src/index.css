@@ -4,6 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body {
   @apply font-poppins
 }
@@ -41,7 +42,7 @@ button.fill:hover{
 }
 
 button.outline {
-  @apply bg-white text-primary  w-[245px] h-12 py-3 px-5
+  @apply bg-white text-primary  lg:w-[245px] h-12 py-3 px-5
 }
 
 button.outline:hover {
@@ -49,7 +50,9 @@ button.outline:hover {
 }
 
 
-
+label {
+  @apply flex flex-row gap-3
+}
 .card-category {
   @apply w-[285px] h-[446px] lg:w-[381px] lg:h-[546px] flex flex-col gap-5
 }
