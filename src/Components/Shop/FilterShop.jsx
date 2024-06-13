@@ -2,7 +2,6 @@ import React, { useState }  from 'react'
 import filter from '../../image/icon/filter.svg'
 import grid from '../../image/icon/grid-big-round.svg'
 import list from '../../image/icon/view-list.svg'
-import sort from '../../image/icon/sort.svg'
 
 const FilterShop = ({setViewMode, setItemsPerPage, setSortOrder, selectedCategories, setSelectedCategories, filteredProducts}) => {
   const [isfilterOpen, setIsfilterOpen] = useState(false)
@@ -142,17 +141,14 @@ const FilterShop = ({setViewMode, setItemsPerPage, setSortOrder, selectedCategor
               <option value="all">All</option>
             </select>
           </div>
-
           <div className='flex flex-row gap-3'>
-            <h4 className='font-normal hidden lg:block'>Sort by</h4>
-            <img src={sort} className='w-7 lg:hidden'/>
-            <select onChange={handleSortOrderChange} className='mr-10 w-5 lg:w-max '>
+            <h4 className='font-normal'>Sort by</h4>
+            <select onChange={handleSortOrderChange} className='ml-2 w-5 lg:w-max'>
               <option value="default" >Default</option>
               <option value="asc">Price: Low to High</option>
               <option value="desc">Price: High to Low</option>
             </select>
           </div>
-
         </div>
       </div>
     </div>

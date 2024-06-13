@@ -7,7 +7,7 @@ const HeroSectionShop = () => {
     <div className='flex flex-col'>
       <div className='w-full h-[316px]'>
         <img src={background} className='w-full h-full object-cover object-center '/>
-        <div className='absolute top-[10%] flex items-center justify-center  w-full h-[316px] z-10 backdrop-blur-sm'>
+        <div className='absolute top-0 flex items-center justify-center  w-full h-[400px] z-10 backdrop-blur-sm'>
           <div>
           <h1 className='text-[48px] font-medium'>Shop</h1>
             <div className='flex flex-row gap-[6px] items-center'>
