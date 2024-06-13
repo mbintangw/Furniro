@@ -1,10 +1,14 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
 import data from '../../../data.json'
 import share from '../../image/icon/share-white.svg'
 import like from '../../image/icon/heart-white.svg'
 import compare from '../../image/icon/compare-white.svg'
 
+
 const OurProducts = () => {
+  
+
   let product = [];
   product.push (data[0],data[11],data[21],data[31],data[41],data[51],data[45],data[24])
 
@@ -13,6 +17,7 @@ const OurProducts = () => {
       <h1 className='text-[40px]'>Our Products</h1>
       <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-8'>
         {product.map((item,index) => (
+          <Link to={`/Detail/${item.id}`} key={index}>
           <div className='card-product' key={index}>
             <img src={item.image}/>
             <h3>{item.name}</h3>
@@ -29,11 +34,11 @@ const OurProducts = () => {
                   <img src={like} alt='like'/>
                   <p>Like</p>  
                 </div>
-
               </div>
 
             </div>
           </div>
+          </Link>
         ))}
       </div>
         <button className='outline'>Show More</button>

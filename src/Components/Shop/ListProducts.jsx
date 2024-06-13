@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import data from '../../../data.json';
 import share from '../../image/icon/share-white.svg';
 import like from '../../image/icon/heart-white.svg';
@@ -49,6 +50,7 @@ const ListProducts = ({ viewMode, itemsPerPage, sortOrder, selectedCategories })
     <div className='flex flex-col justify-center items-center gap-8 mt-[46px] '>
       <div className={viewMode === 'grid' ? 'grid md:grid-cols-2 lg:grid-cols-4 gap-8' : 'flex flex-col w-screen lg:w-auto  gap-10 '}>
         {displayedProducts.map((item, index) => (
+          <Link to={`/Detail/${item.id}`} key={index}>
           <div className={viewMode === 'grid' ? 'card-product' : 'flex flex-row w-full px-5'} key={index}>
             <img src={item.image} alt={item.name} className={viewMode === 'grid' ? '' : 'h-1/2 w-1/2 '} />
             <div className={viewMode === 'grid' ? '' : 'w-[400px] h-full ml-4 flex flex-col gap-5 px-2'}>
@@ -70,6 +72,7 @@ const ListProducts = ({ viewMode, itemsPerPage, sortOrder, selectedCategories })
               </div>
             </div>
           </div>
+          </Link>
         ))}
       </div>
 

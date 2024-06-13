@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import HomePages from './Pages/HomePages'
 import MainLayout from './Layout/MainLayout'
 import ShopPages from './Pages/ShopPages'
+import DetailPages from './Pages/DetailPages'
 
 function App() {
   return (
@@ -16,6 +17,11 @@ function App() {
         <Route path='/Shop' element={
           <MainLayout>
             <ShopPages/>
+          </MainLayout>
+        }/>
+          <Route path='/detail/:id' element={
+          <MainLayout>
+            <DetailPages/>
           </MainLayout>
         }/>
       </Routes>

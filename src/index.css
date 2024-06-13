@@ -54,7 +54,7 @@ label {
   @apply flex flex-row gap-3
 }
 .card-category {
-  @apply w-[285px] h-[446px] lg:w-[381px] lg:h-[546px] flex flex-col gap-5
+  @apply w-[285px] h-[446px] lg:w-[381px] lg:h-[546px] flex flex-col gap-5 cursor-pointer
 }
 
 .card-category img {
@@ -79,7 +79,7 @@ label {
 }
 
 .card-product:hover .overlay {
-  @apply bg-black/50 backdrop-blur-sm opacity-100;
+  @apply bg-black/50 backdrop-blur-sm opacity-100 cursor-pointer;
 }
 
 .slider-container {
