@@ -10,9 +10,9 @@
     "category": "chair",
     "color": ["#0000","#B88E2F","#816DFA"],
     "tags" : ["chair","sofa", "Home"],
-    "created-at" : "2022-01-01 00:00:00",
+    "created_at" : "2022-01-01 00:00:00",
     "description": "Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
-    "additional-information": "stylish chair",
+    "additional_information": "stylish chair",
     "rating": 4,
     "reviews": [{
       "id": 101,
@@ -28,19 +28,19 @@
     }],
     "detail" : {
       "general" : {
-        "sales-package" : "1 sectional sofa",
-        "model-number" : "KLS-456",
-        "secondary-material" : "Solid Wood",
+        "sales_package" : "1 sectional sofa",
+        "model_number" : "KLS-456",
+        "secondary_material" : "Solid Wood",
         "configuration" : "L-Shaped",
-        "upholstery-material" : "Fabric + Cutton",
-        "upholstery-color": "Black"
+        "upholstery_material" : "Fabric + Cutton",
+        "upholstery_color": "Black"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Brigh grey & Lion",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "100kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "Foam",
+        "finish_type": "Brigh grey & Lion",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "100kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "120cm",
@@ -51,11 +51,11 @@
         "leg-height": "120cm"
       },
       "warranty" : {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at operations@trevifurniture.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at operations@trevifurniture.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -70,9 +70,9 @@
     "category": "chair",
     "color": ["#FF5733", "#C70039", "#900C3F"],
     "tags": ["chair", "metal", "office"],
-    "created-at": "2022-02-01 00:00:00",
+    "created_at": "2022-02-01 00:00:00",
     "description": "The Orion chair brings modern style and comfort to your office or home. Made from durable metal, it features a sleek design and ergonomic support.",
-    "additional-information": "This chair supports up to 150kg and comes with a 1-year warranty.",
+    "additional_information": "This chair supports up to 150kg and comes with a 1-year warranty.",
     "rating": 4.2,
     "reviews": [
       {
@@ -90,19 +90,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 chair",
-        "model-number": "OR-100",
-        "secondary-material": "Plastic",
+        "sales_package": "1 chair",
+        "model_number": "OR-100",
+        "secondary_material": "Plastic",
         "configuration": "Swivel",
-        "upholstery-material": "Leather",
-        "upholstery-color": "Black"
+        "upholstery_material": "Leather",
+        "upholstery_color": "Black"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "Yes",
-        "maximum-load-capacity": "150kg",
-        "origin-of-manufacture": "Germany"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "Yes",
+        "maximum_load_capacity": "150kg",
+        "origin_of_manufacture": "Germany"
       },
       "dimensions": {
         "width": "70cm",
@@ -113,11 +113,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionchairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionchairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -132,9 +132,9 @@
     "category": "chair",
     "color": ["#8E44AD", "#2980B9", "#27AE60"],
     "tags": ["chair", "plastic", "garden"],
-    "created-at": "2022-03-01 00:00:00",
+    "created_at": "2022-03-01 00:00:00",
     "description": "The Vega chair is perfect for outdoor settings with its sturdy plastic build and vibrant colors. It's lightweight and easy to move around.",
-    "additional-information": "Weather-resistant and easy to clean.",
+    "additional_information": "Weather-resistant and easy to clean.",
     "rating": 3.8,
     "reviews": [
       {
@@ -152,19 +152,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 garden chair",
-        "model-number": "VG-200",
-        "secondary-material": "N/A",
+        "sales_package": "1 garden chair",
+        "model_number": "VG-200",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "100kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "100kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "60cm",
@@ -175,11 +175,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "6 Months Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegachairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "6 Months"
+        "warranty_summary": "6 Months Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegachairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "6 Months"
       }
     }
   },
@@ -194,9 +194,9 @@
     "category": "chair",
     "color": ["#B0E0E6", "#FFB6C1", "#778899"],
     "tags": ["chair", "wood", "dining"],
-    "created-at": "2022-04-01 00:00:00",
+    "created_at": "2022-04-01 00:00:00",
     "description": "The Lyra dining chair combines elegance with durability. Crafted from high-quality wood, it features a sleek design and a comfortable seat.",
-    "additional-information": "Perfect for dining rooms, comes in multiple colors.",
+    "additional_information": "Perfect for dining rooms, comes in multiple colors.",
     "rating": 4.5,
     "reviews": [
       {
@@ -214,19 +214,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 dining chair",
-        "model-number": "LY-300",
-        "secondary-material": "Fabric",
+        "sales_package": "1 dining chair",
+        "model_number": "LY-300",
+        "secondary_material": "Fabric",
         "configuration": "Standard",
-        "upholstery-material": "Cotton",
-        "upholstery-color": "Blue"
+        "upholstery_material": "Cotton",
+        "upholstery_color": "Blue"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "120kg",
-        "origin-of-manufacture": "USA"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "120kg",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "50cm",
@@ -237,11 +237,11 @@
         "leg-height": "40cm"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrachairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrachairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -256,9 +256,9 @@
     "category": "chair",
     "color": ["#FF6347", "#4682B4", "#FFD700"],
     "tags": ["chair", "metal", "living room"],
-    "created-at": "2022-05-01 00:00:00",
+    "created_at": "2022-05-01 00:00:00",
     "description": "The Cassiopeia chair offers a modern touch to your living room with its sleek metal frame and comfortable design.",
-    "additional-information": "Comes with a plush cushion and a 1-year warranty.",
+    "additional_information": "Comes with a plush cushion and a 1-year warranty.",
     "rating": 4.7,
     "reviews": [
       {
@@ -276,19 +276,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 living room chair",
-        "model-number": "CS-400",
-        "secondary-material": "Fabric",
+        "sales_package": "1 living room chair",
+        "model_number": "CS-400",
+        "secondary_material": "Fabric",
         "configuration": "Standard",
-        "upholstery-material": "Velvet",
-        "upholstery-color": "Red"
+        "upholstery_material": "Velvet",
+        "upholstery_color": "Red"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "140kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "140kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "70cm",
@@ -299,11 +299,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiachairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiachairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -318,9 +318,9 @@
     "category": "chair",
     "color": ["#2E8B57", "#FFD700", "#8B4513"],
     "tags": ["chair", "wood", "patio"],
-    "created-at": "2022-06-01 00:00:00",
+    "created_at": "2022-06-01 00:00:00",
     "description": "The Rigel chair is perfect for outdoor patios with its durable wooden frame and weather-resistant finish.",
-    "additional-information": "Weather-resistant and easy to maintain.",
+    "additional_information": "Weather-resistant and easy to maintain.",
     "rating": 4.3,
     "reviews": [
       {
@@ -338,19 +338,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 patio chair",
-        "model-number": "RG-500",
-        "secondary-material": "N/A",
+        "sales_package": "1 patio chair",
+        "model_number": "RG-500",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "120kg",
-        "origin-of-manufacture": "Vietnam"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "120kg",
+        "origin_of_manufacture": "Vietnam"
       },
       "dimensions": {
         "width": "65cm",
@@ -361,11 +361,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@rigelchairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@rigelchairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -380,9 +380,9 @@
     "category": "chair",
     "color": ["#1E90FF", "#FFA07A", "#20B2AA"],
     "tags": ["chair", "plastic", "kids"],
-    "created-at": "2022-07-01 00:00:00",
+    "created_at": "2022-07-01 00:00:00",
     "description": "The Antares chair is designed for kids with its colorful plastic frame and sturdy construction. Safe and fun for any playroom.",
-    "additional-information": "Non-toxic materials and easy to clean.",
+    "additional_information": "Non-toxic materials and easy to clean.",
     "rating": 4.0,
     "reviews": [
       {
@@ -400,19 +400,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 kids chair",
-        "model-number": "AN-600",
-        "secondary-material": "N/A",
+        "sales_package": "1 kids chair",
+        "model_number": "AN-600",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "50kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "50kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "50cm",
@@ -423,11 +423,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@antareschairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@antareschairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -442,9 +442,9 @@
     "category": "chair",
     "color": ["#8B0000", "#FF4500", "#FFD700"],
     "tags": ["chair", "metal", "office"],
-    "created-at": "2022-08-01 00:00:00",
+    "created_at": "2022-08-01 00:00:00",
     "description": "The Polaris chair is designed for the modern office with its sleek metal frame and ergonomic features.",
-    "additional-information": "Ergonomic design with adjustable height.",
+    "additional_information": "Ergonomic design with adjustable height.",
     "rating": 4.5,
     "reviews": [
       {
@@ -462,19 +462,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 office chair",
-        "model-number": "PL-700",
-        "secondary-material": "Plastic",
+        "sales_package": "1 office chair",
+        "model_number": "PL-700",
+        "secondary_material": "Plastic",
         "configuration": "Swivel",
-        "upholstery-material": "Mesh",
-        "upholstery-color": "Black"
+        "upholstery_material": "Mesh",
+        "upholstery_color": "Black"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "Yes",
-        "maximum-load-capacity": "150kg",
-        "origin-of-manufacture": "USA"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "Yes",
+        "maximum_load_capacity": "150kg",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "75cm",
@@ -485,11 +485,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarischairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarischairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -504,9 +504,9 @@
     "category": "chair",
     "color": ["#4B0082", "#8A2BE2", "#9370DB"],
     "tags": ["chair", "wood", "lounge"],
-    "created-at": "2022-09-01 00:00:00",
+    "created_at": "2022-09-01 00:00:00",
     "description": "The Spica lounge chair combines luxury with comfort, featuring a high-quality wooden frame and plush seating.",
-    "additional-information": "Perfect for lounges and living rooms.",
+    "additional_information": "Perfect for lounges and living rooms.",
     "rating": 4.8,
     "reviews": [
       {
@@ -524,19 +524,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lounge chair",
-        "model-number": "SP-800",
-        "secondary-material": "Fabric",
+        "sales_package": "1 lounge chair",
+        "model_number": "SP-800",
+        "secondary_material": "Fabric",
         "configuration": "Standard",
-        "upholstery-material": "Velvet",
-        "upholstery-color": "Purple"
+        "upholstery_material": "Velvet",
+        "upholstery_color": "Purple"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "130kg",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "130kg",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "80cm",
@@ -547,11 +547,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@spicachairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@spicachairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -566,9 +566,9 @@
     "category": "chair",
     "color": ["#00CED1", "#FF69B4", "#FFD700"],
     "tags": ["chair", "plastic", "kids"],
-    "created-at": "2022-10-01 00:00:00",
+    "created_at": "2022-10-01 00:00:00",
     "description": "The Bellatrix chair is perfect for children with its bright colors and safe, sturdy design. Ideal for playrooms and classrooms.",
-    "additional-information": "Made from non-toxic materials and easy to clean.",
+    "additional_information": "Made from non-toxic materials and easy to clean.",
     "rating": 4.1,
     "reviews": [
       {
@@ -586,19 +586,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 kids chair",
-        "model-number": "BL-900",
-        "secondary-material": "N/A",
+        "sales_package": "1 kids chair",
+        "model_number": "BL-900",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "50kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "50kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "45cm",
@@ -609,11 +609,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@bellatrixchairs.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@bellatrixchairs.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -628,9 +628,9 @@
     "category": "sofa",
     "color": ["#8B0000", "#2E8B57", "#FFD700"],
     "tags": ["sofa", "leather", "living room"],
-    "created-at": "2022-11-01 00:00:00",
+    "created_at": "2022-11-01 00:00:00",
     "description": "The Nova sofa offers premium comfort with its luxurious leather upholstery and spacious seating. Ideal for living rooms.",
-    "additional-information": "Made with top-grain leather for durability and style.",
+    "additional_information": "Made with top-grain leather for durability and style.",
     "rating": 4.7,
     "reviews": [
       {
@@ -648,19 +648,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 leather sofa",
-        "model-number": "NV-100",
-        "secondary-material": "Solid Wood",
+        "sales_package": "1 leather sofa",
+        "model_number": "NV-100",
+        "secondary_material": "Solid Wood",
         "configuration": "3-Seater",
-        "upholstery-material": "Leather",
-        "upholstery-color": "Red"
+        "upholstery_material": "Leather",
+        "upholstery_color": "Red"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "Yes",
-        "maximum-load-capacity": "250kg",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "Yes",
+        "maximum_load_capacity": "250kg",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "200cm",
@@ -671,11 +671,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novasofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@novasofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -690,9 +690,9 @@
     "category": "sofa",
     "color": ["#4682B4", "#DAA520", "#808080"],
     "tags": ["sofa", "fabric", "living room"],
-    "created-at": "2022-12-01 00:00:00",
+    "created_at": "2022-12-01 00:00:00",
     "description": "The Vegaplus fabric sofa offers a blend of comfort and style with its soft fabric upholstery and modern design.",
-    "additional-information": "Removable and washable covers for easy maintenance.",
+    "additional_information": "Removable and washable covers for easy maintenance.",
     "rating": 4.5,
     "reviews": [
       {
@@ -710,19 +710,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 fabric sofa",
-        "model-number": "VG-200",
-        "secondary-material": "Metal",
+        "sales_package": "1 fabric sofa",
+        "model_number": "VG-200",
+        "secondary_material": "Metal",
         "configuration": "2-Seater",
-        "upholstery-material": "Fabric",
-        "upholstery-color": "Blue"
+        "upholstery_material": "Fabric",
+        "upholstery_color": "Blue"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "200kg",
-        "origin-of-manufacture": "Vietnam"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "200kg",
+        "origin_of_manufacture": "Vietnam"
       },
       "dimensions": {
         "width": "150cm",
@@ -733,11 +733,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegasofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegasofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -752,9 +752,9 @@
     "category": "sofa",
     "color": ["#9932CC", "#FFD700", "#4682B4"],
     "tags": ["sofa", "velvet", "luxury"],
-    "created-at": "2022-11-15 00:00:00",
+    "created_at": "2022-11-15 00:00:00",
     "description": "The Lyran velvet sofa exudes luxury with its plush velvet upholstery and elegant design. Perfect for a touch of glamour in any living space.",
-    "additional-information": "Soft velvet fabric and solid wood frame.",
+    "additional_information": "Soft velvet fabric and solid wood frame.",
     "rating": 4.8,
     "reviews": [
       {
@@ -772,19 +772,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 velvet sofa",
-        "model-number": "LR-300",
-        "secondary-material": "Solid Wood",
+        "sales_package": "1 velvet sofa",
+        "model_number": "LR-300",
+        "secondary_material": "Solid Wood",
         "configuration": "2-Seater",
-        "upholstery-material": "Velvet",
-        "upholstery-color": "Purple"
+        "upholstery_material": "Velvet",
+        "upholstery_color": "Purple"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "200kg",
-        "origin-of-manufacture": "Turkey"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "200kg",
+        "origin_of_manufacture": "Turkey"
       },
       "dimensions": {
         "width": "140cm",
@@ -795,11 +795,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrasofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrasofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -814,9 +814,9 @@
     "category": "sofa",
     "color": ["#8B4513", "#F0E68C", "#708090"],
     "tags": ["sofa", "wood", "living room"],
-    "created-at": "2022-12-01 00:00:00",
+    "created_at": "2022-12-01 00:00:00",
     "description": "The Orin wood sofa combines classic design with modern comfort. Ideal for any living room setting.",
-    "additional-information": "Crafted from high-quality wood with soft fabric cushions.",
+    "additional_information": "Crafted from high-quality wood with soft fabric cushions.",
     "rating": 4.6,
     "reviews": [
       {
@@ -834,19 +834,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wood sofa",
-        "model-number": "OR-400",
-        "secondary-material": "Fabric",
+        "sales_package": "1 wood sofa",
+        "model_number": "OR-400",
+        "secondary_material": "Fabric",
         "configuration": "3-Seater",
-        "upholstery-material": "Fabric",
-        "upholstery-color": "Brown"
+        "upholstery_material": "Fabric",
+        "upholstery_color": "Brown"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "250kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "250kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "180cm",
@@ -857,11 +857,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionsofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionsofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -876,9 +876,9 @@
     "category": "sofa",
     "color": ["#B22222", "#20B2AA", "#778899"],
     "tags": ["sofa", "leather", "modern"],
-    "created-at": "2022-12-15 00:00:00",
+    "created_at": "2022-12-15 00:00:00",
     "description": "The Cassider leather sofa offers a sleek, modern look with its top-quality leather upholstery and minimalist design.",
-    "additional-information": "Easy to clean and maintain, perfect for contemporary homes.",
+    "additional_information": "Easy to clean and maintain, perfect for contemporary homes.",
     "rating": 4.7,
     "reviews": [
       {
@@ -896,19 +896,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 leather sofa",
-        "model-number": "CS-500",
-        "secondary-material": "Metal",
+        "sales_package": "1 leather sofa",
+        "model_number": "CS-500",
+        "secondary_material": "Metal",
         "configuration": "2-Seater",
-        "upholstery-material": "Leather",
-        "upholstery-color": "Green"
+        "upholstery_material": "Leather",
+        "upholstery_color": "Green"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "Yes",
-        "maximum-load-capacity": "220kg",
-        "origin-of-manufacture": "Germany"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "Yes",
+        "maximum_load_capacity": "220kg",
+        "origin_of_manufacture": "Germany"
       },
       "dimensions": {
         "width": "160cm",
@@ -919,11 +919,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiasofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiasofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -938,9 +938,9 @@
     "category": "sofa",
     "color": ["#8A2BE2", "#7FFF00", "#D2691E"],
     "tags": ["sofa", "fabric", "modern"],
-    "created-at": "2022-11-20 00:00:00",
+    "created_at": "2022-11-20 00:00:00",
     "description": "The Arcturus fabric sofa combines contemporary design with comfortable seating, perfect for any modern living space.",
-    "additional-information": "Durable fabric with removable, washable covers.",
+    "additional_information": "Durable fabric with removable, washable covers.",
     "rating": 4.5,
     "reviews": [
       {
@@ -958,19 +958,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 fabric sofa",
-        "model-number": "AT-600",
-        "secondary-material": "Metal",
+        "sales_package": "1 fabric sofa",
+        "model_number": "AT-600",
+        "secondary_material": "Metal",
         "configuration": "2-Seater",
-        "upholstery-material": "Fabric",
-        "upholstery-color": "Purple"
+        "upholstery_material": "Fabric",
+        "upholstery_color": "Purple"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "210kg",
-        "origin-of-manufacture": "USA"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "210kg",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "150cm",
@@ -981,11 +981,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@arcturussofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@arcturussofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1000,9 +1000,9 @@
     "category": "sofa",
     "color": ["#DC143C", "#FFD700", "#1E90FF"],
     "tags": ["sofa", "velvet", "luxury"],
-    "created-at": "2022-12-25 00:00:00",
+    "created_at": "2022-12-25 00:00:00",
     "description": "The Polaryt velvet sofa offers a touch of luxury with its plush velvet fabric and elegant design. Perfect for adding sophistication to your home.",
-    "additional-information": "Soft velvet upholstery with sturdy wooden frame.",
+    "additional_information": "Soft velvet upholstery with sturdy wooden frame.",
     "rating": 4.7,
     "reviews": [
       {
@@ -1020,19 +1020,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 velvet sofa",
-        "model-number": "PL-700",
-        "secondary-material": "Solid Wood",
+        "sales_package": "1 velvet sofa",
+        "model_number": "PL-700",
+        "secondary_material": "Solid Wood",
         "configuration": "3-Seater",
-        "upholstery-material": "Velvet",
-        "upholstery-color": "Red"
+        "upholstery_material": "Velvet",
+        "upholstery_color": "Red"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "230kg",
-        "origin-of-manufacture": "UK"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "230kg",
+        "origin_of_manufacture": "UK"
       },
       "dimensions": {
         "width": "170cm",
@@ -1043,11 +1043,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarissofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarissofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -1062,9 +1062,9 @@
     "category": "sofa",
     "color": ["#8B4513", "#2E8B57", "#8A2BE2"],
     "tags": ["sofa", "leather", "luxury"],
-    "created-at": "2022-11-05 00:00:00",
+    "created_at": "2022-11-05 00:00:00",
     "description": "The Santares leather sofa combines elegance and comfort with its high-quality leather and refined design. Ideal for luxury living rooms.",
-    "additional-information": "Top-grain leather upholstery for durability and style.",
+    "additional_information": "Top-grain leather upholstery for durability and style.",
     "rating": 4.8,
     "reviews": [
       {
@@ -1082,19 +1082,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 leather sofa",
-        "model-number": "AN-800",
-        "secondary-material": "Metal",
+        "sales_package": "1 leather sofa",
+        "model_number": "AN-800",
+        "secondary_material": "Metal",
         "configuration": "3-Seater",
-        "upholstery-material": "Leather",
-        "upholstery-color": "Brown"
+        "upholstery_material": "Leather",
+        "upholstery_color": "Brown"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "Yes",
-        "maximum-load-capacity": "240kg",
-        "origin-of-manufacture": "France"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "Yes",
+        "maximum_load_capacity": "240kg",
+        "origin_of_manufacture": "France"
       },
       "dimensions": {
         "width": "200cm",
@@ -1105,11 +1105,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@antaressofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@antaressofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -1124,9 +1124,9 @@
     "category": "sofa",
     "color": ["#FF4500", "#FFD700", "#00CED1"],
     "tags": ["sofa", "wood", "classic"],
-    "created-at": "2022-10-25 00:00:00",
+    "created_at": "2022-10-25 00:00:00",
     "description": "The Andromeda wood sofa combines classic design with modern comfort. Perfect for any living room setting.",
-    "additional-information": "Crafted from high-quality wood with soft fabric cushions.",
+    "additional_information": "Crafted from high-quality wood with soft fabric cushions.",
     "rating": 4.6,
     "reviews": [
       {
@@ -1144,19 +1144,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wood sofa",
-        "model-number": "AD-900",
-        "secondary-material": "Fabric",
+        "sales_package": "1 wood sofa",
+        "model_number": "AD-900",
+        "secondary_material": "Fabric",
         "configuration": "3-Seater",
-        "upholstery-material": "Fabric",
-        "upholstery-color": "Orange"
+        "upholstery_material": "Fabric",
+        "upholstery_color": "Orange"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "250kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "Foam",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "250kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "180cm",
@@ -1167,11 +1167,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@andromedasofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@andromedasofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1186,9 +1186,9 @@
     "category": "sofa",
     "color": ["#7FFF00", "#D2691E", "#1E90FF"],
     "tags": ["sofa", "fabric", "modern"],
-    "created-at": "2022-11-10 00:00:00",
+    "created_at": "2022-11-10 00:00:00",
     "description": "The Procyon fabric sofa offers a blend of comfort and style with its soft fabric upholstery and modern design. Perfect for any living space.",
-    "additional-information": "Removable and washable covers for easy maintenance.",
+    "additional_information": "Removable and washable covers for easy maintenance.",
     "rating": 4.5,
     "reviews": [
       {
@@ -1206,19 +1206,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 fabric sofa",
-        "model-number": "PC-1000",
-        "secondary-material": "Metal",
+        "sales_package": "1 fabric sofa",
+        "model_number": "PC-1000",
+        "secondary_material": "Metal",
         "configuration": "2-Seater",
-        "upholstery-material": "Fabric",
-        "upholstery-color": "Green"
+        "upholstery_material": "Fabric",
+        "upholstery_color": "Green"
       },
       "product": {
-        "filling-material": "Foam",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "200kg",
-        "origin-of-manufacture": "Vietnam"
+        "filling_material": "Foam",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "200kg",
+        "origin_of_manufacture": "Vietnam"
       },
       "dimensions": {
         "width": "150cm",
@@ -1229,11 +1229,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@procyonsofas.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@procyonsofas.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1248,9 +1248,9 @@
     "category": "table",
     "color": ["#8B4513", "#FFD700"],
     "tags": ["table", "wood", "dining"],
-    "created-at": "2022-09-15 00:00:00",
+    "created_at": "2022-09-15 00:00:00",
     "description": "The Vortex wooden dining table offers a blend of classic style and modern design. Perfect for family dinners and gatherings.",
-    "additional-information": "Made from high-quality oak wood.",
+    "additional_information": "Made from high-quality oak wood.",
     "rating": 4.3,
     "reviews": [
       {
@@ -1268,19 +1268,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 dining table",
-        "model-number": "VT-300",
-        "secondary-material": "N/A",
+        "sales_package": "1 dining table",
+        "model_number": "VT-300",
+        "secondary_material": "N/A",
         "configuration": "4-Seater",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "100kg",
-        "origin-of-manufacture": "USA"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "100kg",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "120cm",
@@ -1291,11 +1291,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vortextables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@vortextables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -1310,9 +1310,9 @@
     "category": "table",
     "color": ["#1E90FF", "#00008B"],
     "tags": ["table", "metal", "modern"],
-    "created-at": "2022-08-20 00:00:00",
+    "created_at": "2022-08-20 00:00:00",
     "description": "The Novares metal table is perfect for modern living rooms. Its sleek design and sturdy construction make it a great addition to any space.",
-    "additional-information": "Easy to assemble and maintain.",
+    "additional_information": "Easy to assemble and maintain.",
     "rating": 4.2,
     "reviews": [
       {
@@ -1330,19 +1330,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 metal table",
-        "model-number": "NV-200",
-        "secondary-material": "N/A",
+        "sales_package": "1 metal table",
+        "model_number": "NV-200",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "80kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "80kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "100cm",
@@ -1353,11 +1353,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novarestables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@novarestables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1372,9 +1372,9 @@
     "category": "table",
     "color": ["#FFFFFF", "#C0C0C0"],
     "tags": ["table", "glass", "elegant"],
-    "created-at": "2022-07-30 00:00:00",
+    "created_at": "2022-07-30 00:00:00",
     "description": "The Lyrafer glass table adds a touch of elegance to any dining room. Its sleek design and glass top make it a centerpiece for any meal.",
-    "additional-information": "Tempered glass for durability and safety.",
+    "additional_information": "Tempered glass for durability and safety.",
     "rating": 4.5,
     "reviews": [
       {
@@ -1392,19 +1392,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 glass table",
-        "model-number": "LY-400",
-        "secondary-material": "Metal",
+        "sales_package": "1 glass table",
+        "model_number": "LY-400",
+        "secondary_material": "Metal",
         "configuration": "6-Seater",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "150kg",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "150kg",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "150cm",
@@ -1415,11 +1415,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyratables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyratables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1434,9 +1434,9 @@
     "category": "table",
     "color": ["#8B0000", "#696969"],
     "tags": ["table", "marble", "luxury"],
-    "created-at": "2022-06-15 00:00:00",
+    "created_at": "2022-06-15 00:00:00",
     "description": "The Vegader marble table brings luxury and sophistication to any dining area. Its marble top and sturdy base ensure durability and elegance.",
-    "additional-information": "High-quality marble for a luxurious finish.",
+    "additional_information": "High-quality marble for a luxurious finish.",
     "rating": 4.7,
     "reviews": [
       {
@@ -1454,19 +1454,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 marble table",
-        "model-number": "VG-500",
-        "secondary-material": "Metal",
+        "sales_package": "1 marble table",
+        "model_number": "VG-500",
+        "secondary_material": "Metal",
         "configuration": "4-Seater",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "200kg",
-        "origin-of-manufacture": "Greece"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "200kg",
+        "origin_of_manufacture": "Greece"
       },
       "dimensions": {
         "width": "130cm",
@@ -1477,11 +1477,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegatables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegatables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -1496,9 +1496,9 @@
     "category": "table",
     "color": ["#2E8B57", "#8FBC8F"],
     "tags": ["table", "wood", "study"],
-    "created-at": "2022-05-10 00:00:00",
+    "created_at": "2022-05-10 00:00:00",
     "description": "The Antareska study table is ideal for students and professionals. Its ergonomic design and ample workspace make it perfect for studying and working from home.",
-    "additional-information": "Eco-friendly wood with a smooth finish.",
+    "additional_information": "Eco-friendly wood with a smooth finish.",
     "rating": 4.4,
     "reviews": [
       {
@@ -1516,19 +1516,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 study table",
-        "model-number": "AT-600",
-        "secondary-material": "N/A",
+        "sales_package": "1 study table",
+        "model_number": "AT-600",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "70kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "70kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "110cm",
@@ -1539,11 +1539,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@antarestables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@antarestables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1558,9 +1558,9 @@
     "category": "table",
     "color": ["#4682B4", "#5F9EA0"],
     "tags": ["table", "wood", "outdoor"],
-    "created-at": "2022-04-20 00:00:00",
+    "created_at": "2022-04-20 00:00:00",
     "description": "The Silarop outdoor table is perfect for patios and gardens. Its sturdy wood frame and weather-resistant finish make it ideal for outdoor use.",
-    "additional-information": "Rust-resistant and easy to clean.",
+    "additional_information": "Rust-resistant and easy to clean.",
     "rating": 4.3,
     "reviews": [
       {
@@ -1578,19 +1578,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 outdoor table",
-        "model-number": "PL-700",
-        "secondary-material": "N/A",
+        "sales_package": "1 outdoor table",
+        "model_number": "PL-700",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "90kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "90kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "100cm",
@@ -1601,11 +1601,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polaristables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@polaristables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -1620,9 +1620,9 @@
     "category": "table",
     "color": ["#A52A2A", "#8B4513"],
     "tags": ["table", "wood", "office"],
-    "created-at": "2022-03-15 00:00:00",
+    "created_at": "2022-03-15 00:00:00",
     "description": "The Oron office table is designed for professionals. Its spacious design and multiple drawers make it ideal for any home office or corporate setting.",
-    "additional-information": "Made from premium teak wood.",
+    "additional_information": "Made from premium teak wood.",
     "rating": 4.5,
     "reviews": [
       {
@@ -1640,19 +1640,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 office table",
-        "model-number": "OR-800",
-        "secondary-material": "N/A",
+        "sales_package": "1 office table",
+        "model_number": "OR-800",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "100kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "100kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "140cm",
@@ -1663,11 +1663,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@oriontables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@oriontables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1682,9 +1682,9 @@
     "category": "table",
     "color": ["#A52A2A", "#8B4513"],
     "tags": ["table", "wood", "office"],
-    "created-at": "2022-03-15 00:00:00",
+    "created_at": "2022-03-15 00:00:00",
     "description": "The Puliris office table is designed for professionals. Its spacious design and multiple drawers make it ideal for any home office or corporate setting.",
-    "additional-information": "Made from premium teak wood.",
+    "additional_information": "Made from premium teak wood.",
     "rating": 4.5,
     "reviews": [
       {
@@ -1702,19 +1702,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 office table",
-        "model-number": "PL-700",
-        "secondary-material": "N/A",
+        "sales_package": "1 office table",
+        "model_number": "PL-700",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "90kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "90kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "100cm",
@@ -1725,11 +1725,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@oriontables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@oriontables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -1744,9 +1744,9 @@
     "category": "table",
     "color": ["#32CD32", "#98FB98"],
     "tags": ["table", "plastic", "kids"],
-    "created-at": "2022-02-10 00:00:00",
+    "created_at": "2022-02-10 00:00:00",
     "description": "The Capella kids table is colorful and safe, perfect for playrooms and classrooms. Its sturdy design ensures it can handle the most energetic activities.",
-    "additional-information": "Made from non-toxic, durable plastic.",
+    "additional_information": "Made from non-toxic, durable plastic.",
     "rating": 4.3,
     "reviews": [
       {
@@ -1764,19 +1764,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 kids table",
-        "model-number": "CP-900",
-        "secondary-material": "N/A",
+        "sales_package": "1 kids table",
+        "model_number": "CP-900",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "50kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "50kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "60cm",
@@ -1787,11 +1787,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@capellatables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@capellatables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -1806,9 +1806,9 @@
     "category": "table",
     "color": ["#A52A2A", "#D2691E"],
     "tags": ["table", "wood", "conference"],
-    "created-at": "2022-01-01 00:00:00",
+    "created_at": "2022-01-01 00:00:00",
     "description": "The Phoenix conference table is designed for modern offices. Its large surface and solid construction make it perfect for meetings and discussions.",
-    "additional-information": "High-quality wood with a smooth finish.",
+    "additional_information": "High-quality wood with a smooth finish.",
     "rating": 4.6,
     "reviews": [
       {
@@ -1826,19 +1826,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 conference table",
-        "model-number": "PX-1000",
-        "secondary-material": "N/A",
+        "sales_package": "1 conference table",
+        "model_number": "PX-1000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "150kg",
-        "origin-of-manufacture": "USA"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "150kg",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "240cm",
@@ -1849,11 +1849,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@phoenixtables.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@phoenixtables.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -1868,9 +1868,9 @@
     "category": "wardrobe",
     "color": ["#8B4513", "#D2691E"],
     "tags": ["wardrobe", "wood", "bedroom"],
-    "created-at": "2022-05-01 00:00:00",
+    "created_at": "2022-05-01 00:00:00",
     "description": "The Zephyr wardrobe combines classic design with modern functionality. Ideal for any bedroom setting.",
-    "additional-information": "Made from premium oak wood with a smooth finish.",
+    "additional_information": "Made from premium oak wood with a smooth finish.",
     "rating": 4.2,
     "reviews": [
       {
@@ -1888,19 +1888,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "ZP-1000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "ZP-1000",
+        "secondary_material": "N/A",
         "configuration": "2-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "200kg",
-        "origin-of-manufacture": "Poland"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "200kg",
+        "origin_of_manufacture": "Poland"
       },
       "dimensions": {
         "width": "100cm",
@@ -1911,11 +1911,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@zephyrwardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@zephyrwardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -1930,9 +1930,9 @@
     "category": "wardrobe",
     "color": ["#708090", "#A9A9A9"],
     "tags": ["wardrobe", "wood", "modern"],
-    "created-at": "2022-06-15 00:00:00",
+    "created_at": "2022-06-15 00:00:00",
     "description": "The Lynx wardrobe features a sleek and modern design with durable wood construction. Perfect for contemporary spaces.",
-    "additional-information": "Powder-coated finish for added durability.",
+    "additional_information": "Powder-coated finish for added durability.",
     "rating": 4.5,
     "reviews": [
       {
@@ -1950,19 +1950,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "LX-2000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "LX-2000",
+        "secondary_material": "N/A",
         "configuration": "2-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "180kg",
-        "origin-of-manufacture": "Germany"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "180kg",
+        "origin_of_manufacture": "Germany"
       },
       "dimensions": {
         "width": "120cm",
@@ -1973,11 +1973,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lynxwardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@lynxwardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -1992,9 +1992,9 @@
     "category": "wardrobe",
     "color": ["#4B0082", "#800080"],
     "tags": ["wardrobe", "wood", "luxury"],
-    "created-at": "2022-07-20 00:00:00",
+    "created_at": "2022-07-20 00:00:00",
     "description": "The Orano wardrobe stands out with its luxurious design and premium materials. Ideal for those who appreciate fine craftsmanship.",
-    "additional-information": "Handcrafted from the finest walnut wood.",
+    "additional_information": "Handcrafted from the finest walnut wood.",
     "rating": 4.8,
     "reviews": [
       {
@@ -2012,19 +2012,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "ON-3000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "ON-3000",
+        "secondary_material": "N/A",
         "configuration": "3-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "250kg",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "250kg",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "150cm",
@@ -2035,11 +2035,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "5 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionwardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "5 Years"
+        "warranty_summary": "5 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionwardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "5 Years"
       }
     }
   },
@@ -2054,9 +2054,9 @@
     "category": "wardrobe",
     "color": ["#FFFFFF", "#C0C0C0"],
     "tags": ["wardrobe", "wood", "kids"],
-    "created-at": "2022-08-10 00:00:00",
+    "created_at": "2022-08-10 00:00:00",
     "description": "The Riapol wardrobe is perfect for children's rooms, offering bright colors and a sturdy design.",
-    "additional-information": "Made from durable, non-toxic wood.",
+    "additional_information": "Made from durable, non-toxic wood.",
     "rating": 4.3,
     "reviews": [
       {
@@ -2074,19 +2074,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "PL-4000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "PL-4000",
+        "secondary_material": "N/A",
         "configuration": "2-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "100kg",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "100kg",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "80cm",
@@ -2097,11 +2097,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polariswardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@polariswardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -2116,9 +2116,9 @@
     "category": "wardrobe",
     "color": ["#808080", "#A9A9A9"],
     "tags": ["wardrobe", "wood", "modern"],
-    "created-at": "2022-09-05 00:00:00",
+    "created_at": "2022-09-05 00:00:00",
     "description": "The Avno wardrobe boasts a sleek wood design with ample storage space, perfect for modern homes.",
-    "additional-information": "Anti-rust coating for added durability.",
+    "additional_information": "Anti-rust coating for added durability.",
     "rating": 4.4,
     "reviews": [
       {
@@ -2136,19 +2136,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "NV-5000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "NV-5000",
+        "secondary_material": "N/A",
         "configuration": "2-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "150kg",
-        "origin-of-manufacture": "Germany"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "150kg",
+        "origin_of_manufacture": "Germany"
       },
       "dimensions": {
         "width": "120cm",
@@ -2159,11 +2159,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novawardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@novawardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -2178,9 +2178,9 @@
     "category": "wardrobe",
     "color": ["#B8860B", "#FFD700"],
     "tags": ["wardrobe", "wood", "luxury"],
-    "created-at": "2022-10-10 00:00:00",
+    "created_at": "2022-10-10 00:00:00",
     "description": "The Celeste wardrobe offers a luxurious design with intricate woodwork and ample storage.",
-    "additional-information": "Handcrafted from premium teak wood.",
+    "additional_information": "Handcrafted from premium teak wood.",
     "rating": 4.7,
     "reviews": [
       {
@@ -2198,19 +2198,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "CL-6000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "CL-6000",
+        "secondary_material": "N/A",
         "configuration": "3-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "240kg",
-        "origin-of-manufacture": "India"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "240kg",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "140cm",
@@ -2221,11 +2221,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "4 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@celestewardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "4 Years"
+        "warranty_summary": "4 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@celestewardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "4 Years"
       }
     }
   },
@@ -2240,9 +2240,9 @@
     "category": "wardrobe",
     "color": ["#2F4F4F", "#696969"],
     "tags": ["wardrobe", "wood", "industrial"],
-    "created-at": "2022-11-15 00:00:00",
+    "created_at": "2022-11-15 00:00:00",
     "description": "The Tegar wardrobe features a rugged, industrial design with a robust wood build. Perfect for loft-style living.",
-    "additional-information": "Coated with anti-rust treatment.",
+    "additional_information": "Coated with anti-rust treatment.",
     "rating": 4.4,
     "reviews": [
       {
@@ -2260,19 +2260,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "VG-7000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "VG-7000",
+        "secondary_material": "N/A",
         "configuration": "2-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "160kg",
-        "origin-of-manufacture": "USA"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "160kg",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "110cm",
@@ -2283,11 +2283,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegawardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegawardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -2302,9 +2302,9 @@
     "category": "wardrobe",
     "color": ["#4B0082", "#800080"],
     "tags": ["wardrobe", "wood", "luxury"],
-    "created-at": "2022-07-20 00:00:00",
+    "created_at": "2022-07-20 00:00:00",
     "description": "The Tuoni wardrobe stands out with its luxurious design and premium materials. Ideal for those who appreciate fine craftsmanship.",
-    "additional-information": "Handcrafted from the finest walnut wood.",
+    "additional_information": "Handcrafted from the finest walnut wood.",
     "rating": 4.8,
     "reviews": [
       {
@@ -2322,19 +2322,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "ON-3000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "ON-3000",
+        "secondary_material": "N/A",
         "configuration": "3-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "250kg",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "250kg",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "150cm",
@@ -2345,11 +2345,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "5 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionwardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "5 Years"
+        "warranty_summary": "5 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionwardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "5 Years"
       }
     }
   },
@@ -2364,9 +2364,9 @@
     "category": "wardrobe",
     "color": ["#8B4513", "#D2691E"],
     "tags": ["wardrobe", "wood", "vintage"],
-    "created-at": "2022-12-01 00:00:00",
+    "created_at": "2022-12-01 00:00:00",
     "description": "The Lope wardrobe offers a vintage charm with modern functionality. Made from high-quality mahogany.",
-    "additional-information": "Features antique brass handles.",
+    "additional_information": "Features antique brass handles.",
     "rating": 4.6,
     "reviews": [
       {
@@ -2384,19 +2384,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "LY-8000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "LY-8000",
+        "secondary_material": "N/A",
         "configuration": "2-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "220kg",
-        "origin-of-manufacture": "Brazil"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "220kg",
+        "origin_of_manufacture": "Brazil"
       },
       "dimensions": {
         "width": "130cm",
@@ -2407,11 +2407,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "4 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrawardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "4 Years"
+        "warranty_summary": "4 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@lyrawardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "4 Years"
       }
     }
   },
@@ -2426,9 +2426,9 @@
     "category": "wardrobe",
     "color": ["#4B0082", "#800080"],
     "tags": ["wardrobe", "wood", "luxury"],
-    "created-at": "2023-01-10 00:00:00",
+    "created_at": "2023-01-10 00:00:00",
     "description": "The Cassoerp wardrobe is designed for those who desire luxury and elegance in their home.",
-    "additional-information": "Handcrafted from premium walnut wood with intricate carvings.",
+    "additional_information": "Handcrafted from premium walnut wood with intricate carvings.",
     "rating": 4.9,
     "reviews": [
       {
@@ -2446,19 +2446,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 wardrobe",
-        "model-number": "CS-3000",
-        "secondary-material": "N/A",
+        "sales_package": "1 wardrobe",
+        "model_number": "CS-3000",
+        "secondary_material": "N/A",
         "configuration": "3-Door",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "No",
-        "maximum-load-capacity": "250kg",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "No",
+        "maximum_load_capacity": "250kg",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "150cm",
@@ -2469,11 +2469,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "5 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiawardrobes.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "5 Years"
+        "warranty_summary": "5 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@cassiopeiawardrobes.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "5 Years"
       }
     }
   },
@@ -2488,9 +2488,9 @@
     "category": "lamp",
     "color": ["#FFFFFF", "#FFD700"],
     "tags": ["lamp", "wood", "vintage"],
-    "created-at": "2023-03-01 00:00:00",
+    "created_at": "2023-03-01 00:00:00",
     "description": "The Lumos lamp features a vintage wooden design, perfect for cozy spaces.",
-    "additional-information": "Energy-efficient LED bulb included.",
+    "additional_information": "Energy-efficient LED bulb included.",
     "rating": 4.5,
     "reviews": [
       {
@@ -2508,19 +2508,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "LM-1000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "LM-1000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "USA"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "20cm",
@@ -2531,11 +2531,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@lumoslamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@lumoslamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -2550,9 +2550,9 @@
     "category": "lamp",
     "color": ["#000000", "#808080"],
     "tags": ["lamp", "metal", "modern"],
-    "created-at": "2023-04-01 00:00:00",
+    "created_at": "2023-04-01 00:00:00",
     "description": "The Aurora lamp combines modern design with functionality, perfect for contemporary homes.",
-    "additional-information": "Dimmable LED bulb included.",
+    "additional_information": "Dimmable LED bulb included.",
     "rating": 4.7,
     "reviews": [
       {
@@ -2570,19 +2570,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "AR-2000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "AR-2000",
+        "secondary_material": "N/A",
         "configuration": "Floor Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Germany"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Germany"
       },
       "dimensions": {
         "width": "30cm",
@@ -2593,11 +2593,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@auroralamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@auroralamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -2612,9 +2612,9 @@
     "category": "lamp",
     "color": ["#FFFFFF", "#FF5733"],
     "tags": ["lamp", "glass", "elegant"],
-    "created-at": "2023-05-01 00:00:00",
+    "created_at": "2023-05-01 00:00:00",
     "description": "The Stellar lamp features a beautiful glass design, adding an elegant touch to any room.",
-    "additional-information": "LED bulb included.",
+    "additional_information": "LED bulb included.",
     "rating": 4.6,
     "reviews": [
       {
@@ -2632,19 +2632,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "ST-3000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "ST-3000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "25cm",
@@ -2655,11 +2655,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@stellarlamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@stellarlamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -2674,9 +2674,9 @@
     "category": "lamp",
     "color": ["#000000", "#FF4500"],
     "tags": ["lamp", "metal", "modern"],
-    "created-at": "2023-06-01 00:00:00",
+    "created_at": "2023-06-01 00:00:00",
     "description": "The Helios lamp is designed with a modern aesthetic, providing excellent illumination.",
-    "additional-information": "Adjustable brightness settings.",
+    "additional_information": "Adjustable brightness settings.",
     "rating": 4.8,
     "reviews": [
       {
@@ -2694,19 +2694,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "HL-4000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "HL-4000",
+        "secondary_material": "N/A",
         "configuration": "Floor Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "USA"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "USA"
       },
       "dimensions": {
         "width": "35cm",
@@ -2717,11 +2717,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@helioslamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@helioslamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -2736,9 +2736,9 @@
     "category": "lamp",
     "color": ["#00CED1", "#FF69B4"],
     "tags": ["lamp", "plastic", "colorful"],
-    "created-at": "2023-07-01 00:00:00",
+    "created_at": "2023-07-01 00:00:00",
     "description": "The Vegakit lamp is perfect for adding a splash of color to any room, with its vibrant design.",
-    "additional-information": "Energy-saving LED bulb included.",
+    "additional_information": "Energy-saving LED bulb included.",
     "rating": 4.4,
     "reviews": [
       {
@@ -2756,19 +2756,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "VG-5000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "VG-5000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "20cm",
@@ -2779,11 +2779,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegalamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@vegalamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -2798,9 +2798,9 @@
     "category": "lamp",
     "color": ["#FFD700", "#4B0082"],
     "tags": ["lamp", "metal", "luxury"],
-    "created-at": "2023-08-01 00:00:00",
+    "created_at": "2023-08-01 00:00:00",
     "description": "The Ptyur lamp offers a luxurious design with a high-quality metal finish, perfect for upscale interiors.",
-    "additional-information": "Includes dimmable LED bulb.",
+    "additional_information": "Includes dimmable LED bulb.",
     "rating": 4.9,
     "reviews": [
       {
@@ -2818,19 +2818,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "OR-6000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "OR-6000",
+        "secondary_material": "N/A",
         "configuration": "Floor Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "35cm",
@@ -2841,11 +2841,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "3 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionlamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "3 Years"
+        "warranty_summary": "3 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@orionlamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "3 Years"
       }
     }
   },
@@ -2860,9 +2860,9 @@
     "category": "lamp",
     "color": ["#A52A2A", "#8B4513"],
     "tags": ["lamp", "wood", "rustic"],
-    "created-at": "2023-09-01 00:00:00",
+    "created_at": "2023-09-01 00:00:00",
     "description": "The Jungkin lamp features a rustic wooden design, adding warmth to any room.",
-    "additional-information": "Includes energy-saving LED bulb.",
+    "additional_information": "Includes energy-saving LED bulb.",
     "rating": 4.6,
     "reviews": [
       {
@@ -2880,19 +2880,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "PL-7000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "PL-7000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Canada"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Canada"
       },
       "dimensions": {
         "width": "22cm",
@@ -2903,11 +2903,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarislamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@polarislamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -2922,9 +2922,9 @@
     "category": "lamp",
     "color": ["#FF4500", "#FFD700"],
     "tags": ["lamp", "plastic", "modern"],
-    "created-at": "2023-10-01 00:00:00",
+    "created_at": "2023-10-01 00:00:00",
     "description": "The Novaty lamp offers a modern design with vibrant colors, ideal for any contemporary space.",
-    "additional-information": "Includes energy-efficient LED bulb.",
+    "additional_information": "Includes energy-efficient LED bulb.",
     "rating": 4.3,
     "reviews": [
       {
@@ -2942,19 +2942,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "NV-8000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "NV-8000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "18cm",
@@ -2965,11 +2965,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@novalamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@novalamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -2984,9 +2984,9 @@
     "category": "lamp",
     "color": ["#FFFFFF", "#B0E0E6"],
     "tags": ["lamp", "metal", "elegant"],
-    "created-at": "2023-11-01 00:00:00",
+    "created_at": "2023-11-01 00:00:00",
     "description": "The Celestial lamp features an elegant metal design, perfect for any sophisticated interior.",
-    "additional-information": "Energy-saving LED bulb included.",
+    "additional_information": "Energy-saving LED bulb included.",
     "rating": 4.7,
     "reviews": [
       {
@@ -3004,19 +3004,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "CL-9000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "CL-9000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "France"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "France"
       },
       "dimensions": {
         "width": "25cm",
@@ -3027,11 +3027,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "2 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@celestiallamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "2 Years"
+        "warranty_summary": "2 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@celestiallamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "2 Years"
       }
     }
   },
@@ -3046,9 +3046,9 @@
     "category": "lamp",
     "color": ["#FFD700", "#00CED1"],
     "tags": ["lamp", "metal", "colorful"],
-    "created-at": "2023-12-01 00:00:00",
+    "created_at": "2023-12-01 00:00:00",
     "description": "The Radiance lamp is designed to add a pop of color to any room, with a vibrant and modern look.",
-    "additional-information": "Includes LED bulb.",
+    "additional_information": "Includes LED bulb.",
     "rating": 4.5,
     "reviews": [
       {
@@ -3066,19 +3066,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 lamp",
-        "model-number": "RD-1000",
-        "secondary-material": "N/A",
+        "sales_package": "1 lamp",
+        "model_number": "RD-1000",
+        "secondary_material": "N/A",
         "configuration": "Table Lamp",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "20cm",
@@ -3089,11 +3089,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@radiancelamps.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@radiancelamps.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3108,9 +3108,9 @@
     "category": "vase",
     "color": ["#FFFFFF", "#000000"],
     "tags": ["vase", "ceramic", "modern"],
-    "created-at": "2023-12-01 00:00:00",
+    "created_at": "2023-12-01 00:00:00",
     "description": "The Elegance vase features a sleek design with a glossy finish, perfect for modern interiors.",
-    "additional-information": "Ideal for both fresh and artificial flowers.",
+    "additional_information": "Ideal for both fresh and artificial flowers.",
     "rating": 4.7,
     "reviews": [
       {
@@ -3128,19 +3128,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "EL-1000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "EL-1000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "15cm",
@@ -3151,11 +3151,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@elegancevases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@elegancevases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3170,9 +3170,9 @@
     "category": "vase",
     "color": ["#FF4500", "#FFD700"],
     "tags": ["vase", "glass", "colorful"],
-    "created-at": "2023-11-01 00:00:00",
+    "created_at": "2023-11-01 00:00:00",
     "description": "The Harmony vase offers a vibrant design with a colorful finish, perfect for brightening up any room.",
-    "additional-information": "Hand-blown glass for a unique look.",
+    "additional_information": "Hand-blown glass for a unique look.",
     "rating": 4.5,
     "reviews": [
       {
@@ -3190,19 +3190,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "HR-2000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "HR-2000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Italy"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Italy"
       },
       "dimensions": {
         "width": "12cm",
@@ -3213,11 +3213,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@harmonyvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@harmonyvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3232,9 +3232,9 @@
     "category": "vase",
     "color": ["#8B4513", "#A52A2A"],
     "tags": ["vase", "ceramic", "rustic"],
-    "created-at": "2023-10-01 00:00:00",
+    "created_at": "2023-10-01 00:00:00",
     "description": "The Serenity vase features a rustic ceramic design, adding a warm touch to any home.",
-    "additional-information": "Perfect for dried flowers or as a standalone piece.",
+    "additional_information": "Perfect for dried flowers or as a standalone piece.",
     "rating": 4.6,
     "reviews": [
       {
@@ -3252,19 +3252,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "SR-3000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "SR-3000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Spain"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Spain"
       },
       "dimensions": {
         "width": "18cm",
@@ -3275,11 +3275,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@serenityvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@serenityvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3294,9 +3294,9 @@
     "category": "vase",
     "color": ["#00CED1", "#FF69B4"],
     "tags": ["vase", "glass", "colorful"],
-    "created-at": "2023-09-01 00:00:00",
+    "created_at": "2023-09-01 00:00:00",
     "description": "The Bliss vase is a colorful glass piece that adds a cheerful touch to any room.",
-    "additional-information": "Handcrafted for a unique finish.",
+    "additional_information": "Handcrafted for a unique finish.",
     "rating": 4.4,
     "reviews": [
       {
@@ -3314,19 +3314,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "BL-4000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "BL-4000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "India"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "India"
       },
       "dimensions": {
         "width": "14cm",
@@ -3337,11 +3337,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@blissvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@blissvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3356,9 +3356,9 @@
     "category": "vase",
     "color": ["#8A2BE2", "#9370DB"],
     "tags": ["vase", "ceramic", "elegant"],
-    "created-at": "2023-08-01 00:00:00",
+    "created_at": "2023-08-01 00:00:00",
     "description": "The Zenith vase has an elegant ceramic design, suitable for sophisticated interiors.",
-    "additional-information": "High-quality glaze for a long-lasting finish.",
+    "additional_information": "High-quality glaze for a long-lasting finish.",
     "rating": 4.8,
     "reviews": [
       {
@@ -3376,19 +3376,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "ZN-5000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "ZN-5000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Portugal"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Portugal"
       },
       "dimensions": {
         "width": "20cm",
@@ -3399,11 +3399,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@zenithvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@zenithvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3418,9 +3418,9 @@
     "category": "vase",
     "color": ["#FF6347", "#FF4500"],
     "tags": ["vase", "glass", "bright"],
-    "created-at": "2023-07-01 00:00:00",
+    "created_at": "2023-07-01 00:00:00",
     "description": "The Radiant vase brings a bright and cheerful ambiance to any room with its vibrant glass design.",
-    "additional-information": "Ideal for fresh flowers.",
+    "additional_information": "Ideal for fresh flowers.",
     "rating": 4.5,
     "reviews": [
       {
@@ -3438,19 +3438,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "RD-6000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "RD-6000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "China"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "China"
       },
       "dimensions": {
         "width": "16cm",
@@ -3461,11 +3461,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@radiantvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@radiantvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3480,9 +3480,9 @@
     "category": "vase",
     "color": ["#7FFFD4", "#20B2AA"],
     "tags": ["vase", "ceramic", "contemporary"],
-    "created-at": "2023-06-01 00:00:00",
+    "created_at": "2023-06-01 00:00:00",
     "description": "The Rora vase offers a contemporary ceramic design, perfect for modern homes.",
-    "additional-information": "Durable and easy to clean.",
+    "additional_information": "Durable and easy to clean.",
     "rating": 4.8,
     "reviews": [
       {
@@ -3500,19 +3500,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "AR-7000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "AR-7000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Japan"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Japan"
       },
       "dimensions": {
         "width": "19cm",
@@ -3523,11 +3523,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@auroravases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@auroravases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3542,9 +3542,9 @@
     "category": "vase",
     "color": ["#ADD8E6", "#4169E1"],
     "tags": ["vase", "wood", "elegant"],
-    "created-at": "2023-05-01 00:00:00",
+    "created_at": "2023-05-01 00:00:00",
     "description": "The Luminous vase is designed to bring an elegant touch to any room with its delicate wood design.",
-    "additional-information": "Perfect for fresh or artificial flowers.",
+    "additional_information": "Perfect for fresh or artificial flowers.",
     "rating": 4.6,
     "reviews": [
       {
@@ -3562,19 +3562,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "LM-8000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "LM-8000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Germany"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Germany"
       },
       "dimensions": {
         "width": "13cm",
@@ -3585,11 +3585,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@luminousvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@luminousvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3604,9 +3604,9 @@
     "category": "vase",
     "color": ["#00FF7F", "#3CB371"],
     "tags": ["vase", "wood", "soothing"],
-    "created-at": "2023-04-01 00:00:00",
+    "created_at": "2023-04-01 00:00:00",
     "description": "The Tranquility vase brings a soothing and calming presence with its wood design.",
-    "additional-information": "Perfect for creating a peaceful atmosphere.",
+    "additional_information": "Perfect for creating a peaceful atmosphere.",
     "rating": 4.7,
     "reviews": [
       {
@@ -3624,19 +3624,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "TR-9000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "TR-9000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Matte",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "Thailand"
+        "filling_material": "N/A",
+        "finish_type": "Matte",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "Thailand"
       },
       "dimensions": {
         "width": "17cm",
@@ -3647,11 +3647,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@tranquilityvases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@tranquilityvases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   },
@@ -3666,9 +3666,9 @@
     "category": "vase",
     "color": ["#DAA520", "#FFD700"],
     "tags": ["vase", "wood", "luxury"],
-    "created-at": "2023-03-01 00:00:00",
+    "created_at": "2023-03-01 00:00:00",
     "description": "The Opulence vase exudes luxury with its black wood design, perfect for upscale interiors.",
-    "additional-information": "Handcrafted for a unique touch.",
+    "additional_information": "Handcrafted for a unique touch.",
     "rating": 4.9,
     "reviews": [
       {
@@ -3686,19 +3686,19 @@
     ],
     "detail": {
       "general": {
-        "sales-package": "1 vase",
-        "model-number": "OP-10000",
-        "secondary-material": "N/A",
+        "sales_package": "1 vase",
+        "model_number": "OP-10000",
+        "secondary_material": "N/A",
         "configuration": "Standard",
-        "upholstery-material": "N/A",
-        "upholstery-color": "N/A"
+        "upholstery_material": "N/A",
+        "upholstery_color": "N/A"
       },
       "product": {
-        "filling-material": "N/A",
-        "finish-type": "Glossy",
-        "adjustable-headrest": "N/A",
-        "maximum-load-capacity": "N/A",
-        "origin-of-manufacture": "France"
+        "filling_material": "N/A",
+        "finish_type": "Glossy",
+        "adjustable_headrest": "N/A",
+        "maximum_load_capacity": "N/A",
+        "origin_of_manufacture": "France"
       },
       "dimensions": {
         "width": "22cm",
@@ -3709,11 +3709,11 @@
         "leg-height": "N/A"
       },
       "warranty": {
-        "warranty-summary": "1 Year Manufacturing Warranty",
-        "warranty-service-type": "For Warranty Claims or Any Product Related Issues Please Email at support@opulencevases.com",
-        "covered-in-warranty": "Warranty Against Manufacturing Defect",
-        "not-covered-in-warranty": "Does not cover damages due to improper use or natural wear and tear.",
-        "domestic-warranty": "1 Year"
+        "warranty_summary": "1 Year Manufacturing Warranty",
+        "warranty_service_type": "For Warranty Claims or Any Product Related Issues Please Email at support@opulencevases.com",
+        "covered_in_warranty": "Warranty Against Manufacturing Defect",
+        "not_covered_in_warranty": "Does not cover damages due to improper use or natural wear and tear.",
+        "domestic_warranty": "1 Year"
       }
     }
   }
