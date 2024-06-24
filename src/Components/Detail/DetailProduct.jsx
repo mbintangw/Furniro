@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import { FaStar, FaStarHalf, FaFacebook, FaLinkedin } from 'react-icons/fa'
 import { AiFillTwitterCircle } from "react-icons/ai";
+import { AiOutlineStar } from "react-icons/ai";
 import data from '../../../data.json'
 
 const DetailProduct = () => {
@@ -94,7 +95,7 @@ const DetailProduct = () => {
             {renderStars(product.rating)}
             <p>({product.rating})</p>
           </div>
-          <p>{product['additional-information']}</p>
+          <p>{product.additional_information}</p>
 
           <h5 className='text-md font-semibold mb-2 text-[#9F9F9F]'>Size</h5>
           <div className='flex flex-row gap-2'>
