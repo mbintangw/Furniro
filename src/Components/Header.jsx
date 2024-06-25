@@ -21,53 +21,53 @@ const Header = () => {
         <nav className='hidden lg:flex lg:flex-row w-[430px] justify-between h-6'>
           <NavLink
             to='/'
-            className={({ isActive}) =>
-             isActive ? 'border-b-4 border-primary' : ''
+            className={({ isActive }) =>
+              isActive ? 'border-b-4 border-primary' : ''
             }
           >
             Home
           </NavLink>
           <NavLink
             to='/Shop'
-            className={({ isActive}) =>
+            className={({ isActive }) =>
               isActive ? 'border-b-4 border-primary' : ''
-             }
+            }
           >
             Shop
           </NavLink>
           <NavLink
             to='/About'
-            className={({ isActive}) =>
+            className={({ isActive }) =>
               isActive ? 'border-b-4 border-primary' : ''
-             }
+            }
           >
             About
           </NavLink>
           <NavLink
             to='/Contact'
-            className={({ isActive}) =>
+            className={({ isActive }) =>
               isActive ? 'border-b-4 border-primary' : ''
-             }
+            }
           >
             Contact
           </NavLink>
         </nav>
         <div className='hidden lg:flex lg:flex-row gap-11'>
-            <NavLink to='/Account'>
-              <img src={account} alt='account' />
-            </NavLink>
-              
-            <NavLink to='/Search'>
-              <img src={search} alt='search' />
-            </NavLink>
-            
-            <NavLink to='/Favorite'>
-              <img src={heart} alt='heart' />
-            </NavLink>
-            
-            <NavLink to='/Cart'>
-              <img src={cart} alt='cart' />
-            </NavLink>
+          <NavLink to='/Account'>
+            <img src={account} alt='account' />
+          </NavLink>
+
+          <NavLink to='/Search'>
+            <img src={search} alt='search' />
+          </NavLink>
+
+          <NavLink to='/Favorite'>
+            <img src={heart} alt='heart' />
+          </NavLink>
+
+          <NavLink to='/Cart'>
+            <img src={cart} alt='cart' />
+          </NavLink>
         </div>
         <img
           src={menuOpen ? close : list}
@@ -83,36 +83,36 @@ const Header = () => {
             <NavLink
               to='/'
               onClick={toggleMenu}
-              className={({ isActive}) =>
+              className={({ isActive }) =>
                 isActive ? 'py-2 px-5 bg-primary font-bold' : 'py-2 px-5'
-               }
+              }
             >
               Home
             </NavLink>
             <NavLink
               to='/Shop'
               onClick={toggleMenu}
-              className={({ isActive}) =>
+              className={({ isActive }) =>
                 isActive ? 'py-2 px-5 bg-primary font-bold' : 'py-2 px-5'
-               }
+              }
             >
               Shop
             </NavLink>
             <NavLink
               to='/About'
               onClick={toggleMenu}
-              className={({ isActive}) =>
+              className={({ isActive }) =>
                 isActive ? 'py-2 px-5 bg-primary font-bold' : 'py-2 px-5'
-               }
+              }
             >
               About
             </NavLink>
             <NavLink
               to='/Contact'
               onClick={toggleMenu}
-              className={({ isActive}) =>
+              className={({ isActive }) =>
                 isActive ? 'py-2 px-5 bg-primary font-bold' : 'py-2 px-5'
-               }
+              }
             >
               Contact
             </NavLink>
@@ -121,15 +121,15 @@ const Header = () => {
             <NavLink to='/Account'>
               <img src={account} alt='account' />
             </NavLink>
-              
+
             <NavLink to='/Search'>
               <img src={search} alt='search' />
             </NavLink>
-            
+
             <NavLink to='/Favorite'>
               <img src={heart} alt='heart' />
             </NavLink>
-            
+
             <NavLink to='/Cart'>
               <img src={cart} alt='cart' />
             </NavLink>
