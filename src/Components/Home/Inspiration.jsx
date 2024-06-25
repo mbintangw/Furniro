@@ -4,6 +4,17 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import background from '../../image/home-furniture.jpg'
 import Nextarrow from '../../image/icon/nextarrow.svg'
+import interior1 from '../../image/interior/interior-1.webp'
+import interior2 from '../../image/interior/interior-2.webp'
+import interior3 from '../../image/interior/interior-3.webp'
+import interior4 from '../../image/interior/interior-4.webp'
+import interior5 from '../../image/interior/interior-5.webp'
+import interior6 from '../../image/interior/interior-6.webp'
+import interior7 from '../../image/interior/interior-7.webp'
+import interior8 from '../../image/interior/interior-8.webp'
+import interior9 from '../../image/interior/interior-9.webp'
+import interior10 from '../../image/interior/interior-10.webp'
+
 
 const Inspiration = () => {
   const CustomNextArrow = (props) => {
@@ -38,16 +49,17 @@ const Inspiration = () => {
       </div>
       <div className='slider-container'>
           <Slider {...settings}>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&1"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&2"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&3"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&4"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&5"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&6"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&7"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&8"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&9"/>
-              <img src="https://source.unsplash.com//500x500/?interior,living,furniture,table,wardrobe,bedroom&10"/>
+              <img src={interior1} alt='interior' />
+              <img src={interior2} alt='interior' />
+              <img src={interior3} alt='interior' />
+              <img src={interior4} alt='interior' />
+              <img src={interior5} alt='interior' />
+              <img src={interior6} alt='interior' />
+              <img src={interior7} alt='interior' />
+              <img src={interior8} alt='interior' />
+              <img src={interior9} alt='interior' />
+              <img src={interior10} alt='interior' />
+
           </Slider>
       </div>
     </div>
