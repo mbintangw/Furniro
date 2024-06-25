@@ -18,13 +18,13 @@ const Navbar = () => {
 
   return (
     <div>
-      <div>
-        <div className='bg-[#F9F1E7] w-full h-[100px] flex gap-6 items-center px-6 lg:px-[100px]'>
+      <div className='bg-[#F9F1E7] w-full h-[100px] flex  items-center px-6 lg:px-[100px]'>
+        <div className='flex flex-row gap-3 items-center'>
           <h5>Home</h5>
           <img src={arrow} className='w-5 h-5'/>
           <h5>Shop</h5>
           <img src={arrow} className='w-5 h-5'/>
-          <h4 className='font-normal border-l-4 pl-4 border-[#9F9F9F] h-[37px] lg:flex items-center hidden'>
+          <h4 className='font-normal border-l-4 pl-4 border-[#9F9F9F] h-[37px] items-center flex'>
             {product.name}
           </h4>
         </div>

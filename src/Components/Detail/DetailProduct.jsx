@@ -54,10 +54,10 @@ const DetailProduct = () => {
   }
 
   return (
-    <div className='py-9'>
-      <div className='flex flex-row justify-center gap-20 '>
-        <div className='flex  gap-8'>
-          <div className='flex flex-col gap-4'>
+    <div className=' px-2'>
+      <div className='flex flex-col lg:flex-row justify-center gap-20 '>
+        <div className='flex flex-col-reverse items-center lg:flex-row  gap-8'>
+          <div className='flex flex-row lg:flex-col gap-4'>
             <img
               src={product.image}
               alt={product.name}
@@ -88,7 +88,7 @@ const DetailProduct = () => {
           </div>
         </div>
 
-        <div className='flex flex-col gap-5'>
+        <div className='flex flex-col gap-5 md:ml-10'>
           <h1>{product.name}</h1>
           <h4>Rp. {product.price}</h4>
           <div className='text-yellow-400 flex items-center'>
@@ -127,13 +127,13 @@ const DetailProduct = () => {
           </div>
 
           <div className='flex gap-3 mt-8 pb-10'>
-            <button className='outline  !text-black rounded-2xl py-[17px] px-12'>
+            <button className='outline  !text-black rounded-2xl text-center'>
+              - 1 +
+            </button>
+            <button className='outline  !text-black rounded-2xl text-sm md:text-lg text-center'>
               Add to Chart
             </button>
-            <button className='outline  !text-black rounded-2xl py-[17px] px-12'>
-              Add to Chart
-            </button>
-            <button className='outline  !text-black rounded-2xl py-[17px] px-12'>
+            <button className='outline  !text-black rounded-2xl text-sm md:text-lg text-center'>
               + Compare
             </button>
           </div>

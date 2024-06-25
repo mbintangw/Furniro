@@ -15,7 +15,7 @@ const RelatedProduct = () => {
         <h1 className='font-normal'>Related Products</h1>
       </div>
 
-      <div className='grid grid-cols-4 gap-8'>
+      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8'>
         {moreproducts.length > 0 ? (moreproducts.map((item,index) => (
           <Link to={`/Detail/${item.id}`} key={index}>
           <div className='card-product' key={index}>
