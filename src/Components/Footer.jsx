@@ -11,16 +11,16 @@ const Footer = () => {
         </div>
         <div className='flex flex-col'>
           <h5 className='text-[#9F9F9F]'>Links</h5>
-            <NavLink to='/home'>Home</NavLink>
-            <NavLink to='/shop'>Shop</NavLink>
-            <NavLink to='/about'>About</NavLink>
-            <NavLink to='/contact'>Contact</NavLink>
+            <NavLink to='/'>Home</NavLink>
+            <NavLink to='/Shop'>Shop</NavLink>
+            <NavLink to='/About'>About</NavLink>
+            <NavLink to='/Contact'>Contact</NavLink>
         </div>
         <div className='flex flex-col'>
           <h5 className='text-[#9F9F9F]'>Help</h5>
-          <NavLink to='/payment'>Payment Options</NavLink>
-          <NavLink to='/returns'>Returns</NavLink>
-          <NavLink to='/privacy'>Privacy  Policies</NavLink>
+          <NavLink to='/Payment'>Payment Options</NavLink>
+          <NavLink to='/Returns'>Returns</NavLink>
+          <NavLink to='/Privacy'>Privacy  Policies</NavLink>
         </div>
         <div className='flex flex-col'>
           <h5 className='text-[#9F9F9F]'>Newsletter</h5>
