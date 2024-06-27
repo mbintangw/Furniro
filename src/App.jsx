@@ -5,6 +5,7 @@ import MainLayout from './Layout/MainLayout'
 import ShopPages from './Pages/ShopPages'
 import DetailPages from './Pages/DetailPages'
 import ScrollToTop from './ScrollToTop'
+import AboutPages from './Pages/AboutPages'
 
 function App() {
   return (
@@ -24,6 +25,11 @@ function App() {
         <Route path='/detail/:id' element={
           <MainLayout>
             <DetailPages />
+          </MainLayout>
+        }/>
+        <Route path='/About' element={
+          <MainLayout>
+            <AboutPages />
           </MainLayout>
         }/>
       </Routes>
