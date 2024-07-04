@@ -18,7 +18,7 @@ const CartTab = ({ onClose }) => {
   }
 
   return (
-    <div className='fixed top-0 right-0 w-[450px] h-full bg-white p-7 shadow-lg z-50'>
+    <div className='fixed top-0 right-0 w-full md:w-[450px] h-[550px] md:h-full bg-white p-7 shadow-lg z-50'>
       <div className='flex justify-between items-center'>
         <h2 className='font-bold text-xl'>Shopping Cart</h2>
         <button onClick={onClose}>
@@ -26,7 +26,7 @@ const CartTab = ({ onClose }) => {
         </button>
       </div>
 
-      <div className='mt-7 h-[570px]'>
+      <div className='mt-7 h-3/5 md:h-3/4'>
         {cartItems.length > 0 ? (
           cartItems.map((item, index) => (
             <div key={index} className='flex justify-between items-center mb-4'>
@@ -72,13 +72,13 @@ const CartTab = ({ onClose }) => {
       </div>
 
       <div className='flex justify-between items-center mt-4 border-t pt-4 gap-[14px]'>
-        <button className='border border-black rounded-2xl py-[6px] px-[30px]'>
+        <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
           Cart
         </button>
-        <button className='border border-black rounded-2xl py-[6px] px-[30px]'>
+        <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
           Checout
         </button>
-        <button className='border border-black rounded-2xl py-[6px] px-[30px]'>
+        <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
           Comparison
         </button>
       </div>
