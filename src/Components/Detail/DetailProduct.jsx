@@ -1,15 +1,17 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useContext } from 'react'
 import { useParams } from 'react-router-dom'
 import { FaStar, FaStarHalf, FaFacebook, FaLinkedin } from 'react-icons/fa'
-import { AiFillTwitterCircle } from "react-icons/ai";
-import { AiOutlineStar } from "react-icons/ai";
+import { AiFillTwitterCircle, AiOutlineStar } from 'react-icons/ai'
 import data from '../../../data.json'
+import { CartContext } from '../Cart/CartContex'
 
 const DetailProduct = () => {
   const { id } = useParams()
+  const { addToCart } = useContext(CartContext) // Use CartContext
   const [product, setProduct] = useState(null)
   const [selectedSize, setSelectedSize] = useState(null)
   const [selectedColor, setSelectedColor] = useState(null)
+  const [quantity, setQuantity] = useState(1)
 
   useEffect(() => {
     const foundProduct = data.find((item) => item.id === parseInt(id, 10))
@@ -25,18 +27,15 @@ const DetailProduct = () => {
     const fullStars = Math.floor(rating)
     const hasHalfStar = rating % 1 !== 0
 
-    // Full stars
     for (let i = 0; i < fullStars; i++) {
       stars.push(<FaStar key={i} className='text-yellow-400' />)
     }
 
-    // Half star
     if (hasHalfStar) {
       stars.push(<FaStarHalf key='half' className='text-yellow-400' />)
     }
 
-    // Empty stars
-    const emptyStarsCount = 5 - stars.length // Assuming a maximum of 5 stars
+    const emptyStarsCount = 5 - stars.length
     for (let i = 0; i < emptyStarsCount; i++) {
       stars.push(
         <AiOutlineStar key={`empty-${i}`} className='text-yellow-400' />
@@ -49,14 +48,32 @@ const DetailProduct = () => {
   const handleSizeClick = (size) => {
     setSelectedSize(size === selectedSize ? null : size)
   }
+
   const handleColorClick = (color) => {
     setSelectedColor(color === selectedColor ? null : color)
   }
 
+  const handleQuantityChange = (delta) => {
+    setQuantity((prevQuantity) => Math.max(1, prevQuantity + delta))
+  }
+
+  const handleAddToCart = () => {
+    if (!selectedSize || !selectedColor) {
+      alert('Please select size and color')
+      return
+    }
+    const itemToAdd = {
+      ...product,
+      selectedSize,
+      selectedColor,
+    }
+    addToCart(itemToAdd, quantity)
+  }
+
   return (
-    <div className=' px-2'>
-      <div className='flex flex-col lg:flex-row justify-center gap-20 '>
-        <div className='flex flex-col-reverse items-center lg:flex-row  gap-8'>
+    <div className='px-2'>
+      <div className='flex flex-col lg:flex-row justify-center gap-20'>
+        <div className='flex flex-col-reverse items-center lg:flex-row gap-8'>
           <div className='flex flex-row lg:flex-col gap-4'>
             <img
               src={product.image}
@@ -127,13 +144,18 @@ const DetailProduct = () => {
           </div>
 
           <div className='flex gap-3 mt-8 pb-10'>
-            <button className='outline  !text-black rounded-2xl text-center'>
-              - 1 +
+            <div className='flex gap-[35px] items-center border px-3 rounded-xl border-black w-[123px]'>
+              <button onClick={() => handleQuantityChange(-1)}>-</button>
+              <div className='w-1'>{quantity}</div>
+              <button onClick={() => handleQuantityChange(1)}>+</button>
+            </div>
+            <button
+              className='outline !text-black rounded-2xl text-sm md:text-lg text-center'
+              onClick={handleAddToCart}
+            >
+              Add to Cart
             </button>
-            <button className='outline  !text-black rounded-2xl text-sm md:text-lg text-center'>
-              Add to Chart
-            </button>
-            <button className='outline  !text-black rounded-2xl text-sm md:text-lg text-center'>
+            <button className='outline !text-black rounded-2xl text-sm md:text-lg text-center'>
               + Compare
             </button>
           </div>
@@ -141,17 +163,26 @@ const DetailProduct = () => {
           <div className='border-t-2 pt-10'>
             <table>
               <tbody className='text-[#9F9F9F]'>
-                <tr >
-                  <td >Category</td>
-                  <td className='pl-2'><span className='text-[#9F9F9F]'> : </span> {product.category}</td>
+                <tr>
+                  <td>Category</td>
+                  <td className='pl-2'>
+                    <span className='text-[#9F9F9F]'> : </span>{' '}
+                    {product.category}
+                  </td>
                 </tr>
                 <tr>
                   <td>Tags</td>
-                  <td className='pl-2'><span className='text-[#9F9F9F]'> : </span>{product.tags.join(', ')}</td>
+                  <td className='pl-2'>
+                    <span className='text-[#9F9F9F]'> : </span>
+                    {product.tags.join(', ')}
+                  </td>
                 </tr>
                 <tr>
                   <td>Share </td>
-                  <td className='pl-2 flex items-center gap-3 text-black'><span className='text-[#9F9F9F] -mr-2'> : </span> <FaFacebook/> <FaLinkedin /> <AiFillTwitterCircle /> </td>
+                  <td className='pl-2 flex items-center gap-3 text-black'>
+                    <span className='text-[#9F9F9F] -mr-2'> : </span>{' '}
+                    <FaFacebook /> <FaLinkedin /> <AiFillTwitterCircle />{' '}
+                  </td>
                 </tr>
               </tbody>
             </table>

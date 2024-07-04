@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useContext } from 'react'
 import account from '../image/icon/account.svg'
 import cart from '../image/icon/cart.svg'
 import heart from '../image/icon/heart.svg'
@@ -6,13 +6,23 @@ import search from '../image/icon/search.svg'
 import list from '../image/icon/list.svg'
 import close from '../image/icon/close.svg'
 import { NavLink } from 'react-router-dom'
+import CartTab from './Cart/CartTab' 
+import { CartContext } from './Cart/CartContex';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false)
+  const [cartOpen, setCartOpen] = useState(false) 
+  const { cartItems } = useContext(CartContext);
 
   const toggleMenu = () => {
     setMenuOpen(!menuOpen)
   }
+
+  const toggleCart = () => {
+    setCartOpen(!cartOpen)
+  }
+
+  const totalItems = cartItems.reduce((total, item) => total + item.quantity, 0);
 
   return (
     <header className='sticky top-0 bg-white/80 px-5 z-50'>
@@ -65,9 +75,12 @@ const Header = () => {
             <img src={heart} alt='heart' />
           </NavLink>
 
-          <NavLink to='/Cart'>
+          <div className='relative cursor-pointer' onClick={toggleCart}>
             <img src={cart} alt='cart' />
-          </NavLink>
+            <span className='absolute top-2/3 right-1/2 bg-red-500 text-white text-sm w-5 h-5 rounded-full flex justify-center items-center'>
+              {totalItems}
+            </span>
+          </div>
         </div>
         <img
           src={menuOpen ? close : list}
@@ -130,12 +143,17 @@ const Header = () => {
               <img src={heart} alt='heart' />
             </NavLink>
 
-            <NavLink to='/Cart'>
+            <div className='relative cursor-pointer' onClick={toggleCart}>
               <img src={cart} alt='cart' />
-            </NavLink>
+              <span className='absolute top-2/3 right-1/2 bg-red-500 text-white text-sm w-5 h-5 rounded-full flex justify-center items-center'>
+              {totalItems}
+              </span>
+            </div>
           </div>
         </div>
       )}
+
+      {cartOpen && <CartTab onClose={toggleCart} />}
     </header>
   )
 }

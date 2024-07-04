@@ -6,10 +6,12 @@ import ShopPages from './Pages/ShopPages'
 import DetailPages from './Pages/DetailPages'
 import ScrollToTop from './ScrollToTop'
 import AboutPages from './Pages/AboutPages'
+import { CartContext, CartProvider } from './Components/Cart/CartContex'
 
 function App() {
   return (
     <BrowserRouter>
+      <CartProvider>
       <ScrollToTop />
       <Routes>
         <Route path='/' element={
@@ -33,6 +35,7 @@ function App() {
           </MainLayout>
         }/>
       </Routes>
+      </CartProvider>
     </BrowserRouter>
   )
 }
