@@ -47,8 +47,8 @@
         "height": "120cm",
         "depth": "120cm",
         "weight": "120kg",
-        "seat-height": "120cm",
-        "leg-height": "120cm"
+        "seat_height": "120cm",
+        "leg_height": "120cm"
       },
       "warranty" : {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -109,8 +109,8 @@
         "height": "110cm",
         "depth": "70cm",
         "weight": "12kg",
-        "seat-height": "50cm",
-        "leg-height": "N/A"
+        "seat_height": "50cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -171,8 +171,8 @@
         "height": "90cm",
         "depth": "60cm",
         "weight": "4kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "6 Months Manufacturing Warranty",
@@ -233,8 +233,8 @@
         "height": "100cm",
         "depth": "50cm",
         "weight": "8kg",
-        "seat-height": "45cm",
-        "leg-height": "40cm"
+        "seat_height": "45cm",
+        "leg_height": "40cm"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -295,8 +295,8 @@
         "height": "110cm",
         "depth": "70cm",
         "weight": "10kg",
-        "seat-height": "50cm",
-        "leg-height": "N/A"
+        "seat_height": "50cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -357,8 +357,8 @@
         "height": "90cm",
         "depth": "65cm",
         "weight": "7kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -419,8 +419,8 @@
         "height": "70cm",
         "depth": "50cm",
         "weight": "3kg",
-        "seat-height": "35cm",
-        "leg-height": "N/A"
+        "seat_height": "35cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -481,8 +481,8 @@
         "height": "125cm",
         "depth": "75cm",
         "weight": "15kg",
-        "seat-height": "50cm",
-        "leg-height": "N/A"
+        "seat_height": "50cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -543,8 +543,8 @@
         "height": "100cm",
         "depth": "80cm",
         "weight": "10kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -605,8 +605,8 @@
         "height": "60cm",
         "depth": "45cm",
         "weight": "2kg",
-        "seat-height": "30cm",
-        "leg-height": "N/A"
+        "seat_height": "30cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -667,8 +667,8 @@
         "height": "90cm",
         "depth": "100cm",
         "weight": "80kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -729,8 +729,8 @@
         "height": "85cm",
         "depth": "90cm",
         "weight": "50kg",
-        "seat-height": "40cm",
-        "leg-height": "N/A"
+        "seat_height": "40cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -791,8 +791,8 @@
         "height": "85cm",
         "depth": "85cm",
         "weight": "45kg",
-        "seat-height": "40cm",
-        "leg-height": "N/A"
+        "seat_height": "40cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -853,8 +853,8 @@
         "height": "90cm",
         "depth": "95cm",
         "weight": "70kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -915,8 +915,8 @@
         "height": "85cm",
         "depth": "90cm",
         "weight": "65kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -977,8 +977,8 @@
         "height": "85cm",
         "depth": "90cm",
         "weight": "55kg",
-        "seat-height": "40cm",
-        "leg-height": "N/A"
+        "seat_height": "40cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1039,8 +1039,8 @@
         "height": "85cm",
         "depth": "90cm",
         "weight": "60kg",
-        "seat-height": "42cm",
-        "leg-height": "N/A"
+        "seat_height": "42cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -1101,8 +1101,8 @@
         "height": "90cm",
         "depth": "95cm",
         "weight": "85kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -1163,8 +1163,8 @@
         "height": "90cm",
         "depth": "95cm",
         "weight": "70kg",
-        "seat-height": "45cm",
-        "leg-height": "N/A"
+        "seat_height": "45cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1225,8 +1225,8 @@
         "height": "85cm",
         "depth": "90cm",
         "weight": "50kg",
-        "seat-height": "40cm",
-        "leg-height": "N/A"
+        "seat_height": "40cm",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1287,8 +1287,8 @@
         "height": "75cm",
         "depth": "80cm",
         "weight": "25kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -1349,8 +1349,8 @@
         "height": "70cm",
         "depth": "50cm",
         "weight": "15kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1411,8 +1411,8 @@
         "height": "75cm",
         "depth": "90cm",
         "weight": "50kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1473,8 +1473,8 @@
         "height": "75cm",
         "depth": "80cm",
         "weight": "60kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -1535,8 +1535,8 @@
         "height": "75cm",
         "depth": "60cm",
         "weight": "20kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1597,8 +1597,8 @@
         "height": "75cm",
         "depth": "60cm",
         "weight": "18kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -1659,8 +1659,8 @@
         "height": "75cm",
         "depth": "70cm",
         "weight": "35kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1721,8 +1721,8 @@
         "height": "75cm",
         "depth": "60cm",
         "weight": "18kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -1783,8 +1783,8 @@
         "height": "50cm",
         "depth": "60cm",
         "weight": "5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -1845,8 +1845,8 @@
         "height": "75cm",
         "depth": "120cm",
         "weight": "80kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -1907,8 +1907,8 @@
         "height": "200cm",
         "depth": "60cm",
         "weight": "50kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -1969,8 +1969,8 @@
         "height": "200cm",
         "depth": "60cm",
         "weight": "55kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -2031,8 +2031,8 @@
         "height": "220cm",
         "depth": "70cm",
         "weight": "70kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "5 Year Manufacturing Warranty",
@@ -2093,8 +2093,8 @@
         "height": "180cm",
         "depth": "50cm",
         "weight": "20kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -2155,8 +2155,8 @@
         "height": "200cm",
         "depth": "60cm",
         "weight": "40kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -2217,8 +2217,8 @@
         "height": "210cm",
         "depth": "65cm",
         "weight": "65kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "4 Year Manufacturing Warranty",
@@ -2279,8 +2279,8 @@
         "height": "200cm",
         "depth": "60cm",
         "weight": "45kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -2341,8 +2341,8 @@
         "height": "220cm",
         "depth": "70cm",
         "weight": "70kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "5 Year Manufacturing Warranty",
@@ -2403,8 +2403,8 @@
         "height": "210cm",
         "depth": "65cm",
         "weight": "60kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "4 Year Manufacturing Warranty",
@@ -2465,8 +2465,8 @@
         "height": "220cm",
         "depth": "70cm",
         "weight": "70kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "5 Year Manufacturing Warranty",
@@ -2527,8 +2527,8 @@
         "height": "50cm",
         "depth": "20cm",
         "weight": "2kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -2589,8 +2589,8 @@
         "height": "150cm",
         "depth": "30cm",
         "weight": "5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -2651,8 +2651,8 @@
         "height": "45cm",
         "depth": "25cm",
         "weight": "3kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -2713,8 +2713,8 @@
         "height": "160cm",
         "depth": "35cm",
         "weight": "4kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -2775,8 +2775,8 @@
         "height": "40cm",
         "depth": "20cm",
         "weight": "1.5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -2837,8 +2837,8 @@
         "height": "160cm",
         "depth": "35cm",
         "weight": "4kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "3 Year Manufacturing Warranty",
@@ -2899,8 +2899,8 @@
         "height": "50cm",
         "depth": "22cm",
         "weight": "2.5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -2961,8 +2961,8 @@
         "height": "40cm",
         "depth": "18cm",
         "weight": "1.8kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3023,8 +3023,8 @@
         "height": "50cm",
         "depth": "25cm",
         "weight": "3kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "2 Year Manufacturing Warranty",
@@ -3085,8 +3085,8 @@
         "height": "40cm",
         "depth": "20cm",
         "weight": "1.5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3147,8 +3147,8 @@
         "height": "30cm",
         "depth": "15cm",
         "weight": "1.2kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3209,8 +3209,8 @@
         "height": "25cm",
         "depth": "12cm",
         "weight": "1kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3271,8 +3271,8 @@
         "height": "35cm",
         "depth": "18cm",
         "weight": "1.5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3333,8 +3333,8 @@
         "height": "28cm",
         "depth": "14cm",
         "weight": "1.1kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3395,8 +3395,8 @@
         "height": "32cm",
         "depth": "20cm",
         "weight": "1.3kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3457,8 +3457,8 @@
         "height": "29cm",
         "depth": "16cm",
         "weight": "1.1kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3519,8 +3519,8 @@
         "height": "31cm",
         "depth": "19cm",
         "weight": "1.4kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3581,8 +3581,8 @@
         "height": "27cm",
         "depth": "13cm",
         "weight": "1kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3643,8 +3643,8 @@
         "height": "34cm",
         "depth": "17cm",
         "weight": "1.3kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
@@ -3705,8 +3705,8 @@
         "height": "40cm",
         "depth": "22cm",
         "weight": "1.5kg",
-        "seat-height": "N/A",
-        "leg-height": "N/A"
+        "seat_height": "N/A",
+        "leg_height": "N/A"
       },
       "warranty": {
         "warranty_summary": "1 Year Manufacturing Warranty",
