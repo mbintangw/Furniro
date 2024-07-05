@@ -96,3 +96,23 @@ label {
 .arrow-next:hover {
   @apply opacity-70
 }
+
+.head th {
+  @apply text-start px-2 py-5
+}
+
+.row tr td {
+  @apply  px-2 py-4 
+}
+
+.comparison img {
+  @apply w-[80px] h-[70px] md:w-[130px] md:h-[100px] lg:w-[280px] lg:h-[211px] object-fill
+}
+
+.comparion h3 {
+  @apply text-sm md:text-xl lg:text-2xl
+}
+
+.comparison p {
+  @apply text-xs md:text-sm lg:text-lg
+}

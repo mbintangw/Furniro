@@ -7,6 +7,7 @@ import DetailPages from './Pages/DetailPages'
 import ScrollToTop from './ScrollToTop'
 import AboutPages from './Pages/AboutPages'
 import { CartContext, CartProvider } from './Components/Cart/CartContex'
+import ComparisonPages from './Pages/ComparisonPages'
 
 function App() {
   return (
@@ -32,6 +33,11 @@ function App() {
         <Route path='/About' element={
           <MainLayout>
             <AboutPages />
+          </MainLayout>
+        }/>
+        <Route path='/Comparison/:id' element={
+          <MainLayout>
+            <ComparisonPages />
           </MainLayout>
         }/>
       </Routes>

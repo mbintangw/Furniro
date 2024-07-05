@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from 'react'
-import { useParams } from 'react-router-dom'
+import { useParams, Link  } from 'react-router-dom'
 import { FaStar, FaStarHalf, FaFacebook, FaLinkedin } from 'react-icons/fa'
 import { AiFillTwitterCircle, AiOutlineStar } from 'react-icons/ai'
 import data from '../../../data.json'
@@ -12,6 +12,7 @@ const DetailProduct = () => {
   const [selectedSize, setSelectedSize] = useState(null)
   const [selectedColor, setSelectedColor] = useState(null)
   const [quantity, setQuantity] = useState(1)
+
 
   useEffect(() => {
     const foundProduct = data.find((item) => item.id === parseInt(id, 10))
@@ -69,6 +70,7 @@ const DetailProduct = () => {
     }
     addToCart(itemToAdd, quantity)
   }
+
 
   return (
     <div className='px-2'>
@@ -156,7 +158,9 @@ const DetailProduct = () => {
               Add to Cart
             </button>
             <button className='outline !text-black rounded-2xl text-sm md:text-lg text-center'>
-              + Compare
+              <Link to={`/comparison/${product.id}`}>
+                Compare
+              </Link>
             </button>
           </div>
 
