@@ -1,5 +1,6 @@
 import React, { useContext } from 'react'
 import { CartContext } from '../Cart/CartContex'
+import { Link } from 'react-router-dom'
 import cartclose from '../../image/icon/cart-close.svg'
 import { IoCloseCircle } from 'react-icons/io5'
 
@@ -49,7 +50,8 @@ const CartTab = ({ onClose }) => {
                   ></span>
                 </p>
                 <p className='tracking-widest'>
-                  {item.quantity} x  <span className='text-primary'> Rp. {item.price} </span>
+                  {item.quantity} x{' '}
+                  <span className='text-primary'> Rp. {item.price} </span>
                 </p>
               </div>
               <button onClick={() => handleRemove(item.id)}>
@@ -67,7 +69,8 @@ const CartTab = ({ onClose }) => {
 
       <div className='border-t pt-4 mt-4'>
         <h3 className='text-lg font-bold tracking-widest'>
-          Subtotal :  <span className='text-primary'>Rp. {calculateSubtotal()}</span>
+          Subtotal :{' '}
+          <span className='text-primary'>Rp. {calculateSubtotal()}</span>
         </h3>
       </div>
 
@@ -75,8 +78,9 @@ const CartTab = ({ onClose }) => {
         <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
           Cart
         </button>
+
         <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
-          Checout
+          <Link to='/Checkout'>Checkout</Link>
         </button>
         <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
           Comparison

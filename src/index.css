@@ -116,3 +116,18 @@ label {
 .comparison p {
   @apply text-xs md:text-sm lg:text-lg
 }
+
+.formbilling input {
+  @apply w-[453px] h-[75px] border border-[#9F9F9F] rounded-xl py-7 pl-7
+}
+
+.formbilling label {
+  @apply flex flex-col
+}
+.formbilling p {
+  @apply text-sm  text-pink-700
+}
+
+.formbilling {
+  @apply flex flex-col gap-9
+}

@@ -8,6 +8,7 @@ import ScrollToTop from './ScrollToTop'
 import AboutPages from './Pages/AboutPages'
 import { CartContext, CartProvider } from './Components/Cart/CartContex'
 import ComparisonPages from './Pages/ComparisonPages'
+import CheckoutPages from './Pages/CheckoutPages'
 
 function App() {
   return (
@@ -40,6 +41,12 @@ function App() {
             <ComparisonPages />
           </MainLayout>
         }/>
+        <Route path='/Checkout' element={
+          <MainLayout>
+            <CheckoutPages />
+          </MainLayout>
+        }/>
+        
       </Routes>
       </CartProvider>
     </BrowserRouter>
