@@ -10,6 +10,7 @@ import { CartContext, CartProvider } from './Components/Cart/CartContex'
 import ComparisonPages from './Pages/ComparisonPages'
 import CheckoutPages from './Pages/CheckoutPages'
 import { OrderProvider } from './Components/Checkout/OrderContext'; 
+import ContactPages from './Pages/ContactPages'
 
 function App() {
   return (
@@ -46,6 +47,11 @@ function App() {
         <Route path='/Checkout' element={
           <MainLayout>
             <CheckoutPages />
+          </MainLayout>
+        }/>
+        <Route path='/Contact' element={
+          <MainLayout>
+            <ContactPages />
           </MainLayout>
         }/>
         
