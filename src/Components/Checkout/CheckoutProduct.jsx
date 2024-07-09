@@ -1,9 +1,11 @@
 import React, { useContext } from 'react'
 import { CartContext } from '../Cart/CartContex'
+import { OrderContext } from './OrderContext'
 import { useForm } from 'react-hook-form'
 
-const CheckoutProduct = () => {
+const CheckoutProduct = ({ togglePopup }) => {
   const { cartItems } = useContext(CartContext)
+  const { setOrder } = useContext(OrderContext)
 
   const calculateSubtotal = () => {
     return cartItems.reduce(
@@ -17,7 +19,8 @@ const CheckoutProduct = () => {
     handleSubmit,
     formState: { errors, isValid },
   } = useForm({
-    mode: 'onChange',})
+    mode: 'onChange',
+  })
 
   const onSubmit = (data) => {
     const orderDetails = {
@@ -25,7 +28,8 @@ const CheckoutProduct = () => {
       cartItems,
       total: calculateSubtotal()
     };
-    console.log(orderDetails);
+    setOrder(orderDetails)
+    togglePopup()
     // Save the orderDetails or send it to the server
   };
 

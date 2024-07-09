@@ -9,10 +9,12 @@ import AboutPages from './Pages/AboutPages'
 import { CartContext, CartProvider } from './Components/Cart/CartContex'
 import ComparisonPages from './Pages/ComparisonPages'
 import CheckoutPages from './Pages/CheckoutPages'
+import { OrderProvider } from './Components/Checkout/OrderContext'; 
 
 function App() {
   return (
     <BrowserRouter>
+      <OrderProvider>
       <CartProvider>
       <ScrollToTop />
       <Routes>
@@ -49,6 +51,7 @@ function App() {
         
       </Routes>
       </CartProvider>
+      </OrderProvider>
     </BrowserRouter>
   )
 }
