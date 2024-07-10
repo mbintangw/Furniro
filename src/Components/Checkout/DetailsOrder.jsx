@@ -19,7 +19,7 @@ const DetailsOrder = ({ showPopup, togglePopup }) => {
   return (
     
       <div className='fixed inset-0  flex items-center justify-center bg-black bg-opacity-50 z-50 '>
-        <div className='bg-white relative   p-6 rounded-lg w-1/2 mx-auto'>
+        <div className='bg-white relative   p-6 rounded-lg lg:w-1/2 mx-auto'>
           <button onClick={handleClose} className='absolute top-3 right-3 '><IoMdCloseCircle className='text-[35px] hover:text-red-500'/></button>
           <div className='flex flex-col justify-center items-center mt-10'>
             <h3 className='text-3xl font-semibold mb-6'>Order Details</h3>
