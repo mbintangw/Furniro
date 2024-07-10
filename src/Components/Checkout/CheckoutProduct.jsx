@@ -44,17 +44,26 @@ const CheckoutProduct = ({ togglePopup }) => {
               <label>
                 <h5>First Name</h5>
                 <input
-                  {...register('firstName', { required: 'This is required' })}
-                  className='!w-[212px] md:!w-[300px]'
+                  {...register('firstName', { required: 'This is required',
+                    minLength: {
+                      value: 3,
+                      message: "Minimum 3 characters required",
+                    },
+                   })}
+                  className='!w-[212px] md:!w-[300px] lg:!w-[212px]'
+
                 />
-                <p>{errors.firstName?.message}</p>
+                <p>{errors.firstName?.message.minLength}</p>
               </label>
 
               <label>
                 <h5>Last Name</h5>
                 <input
-                  {...register('lastName', { required: 'This is required' })}
-                  className='!w-[212px] md:!w-[300px]'
+                  {...register('lastName', { required: 'This is required',
+                    minLength: 3,
+                    message: 'Name must be at least 3 characters long',
+                   })}
+                  className='!w-[212px] md:!w-[300px] lg:!w-[212px]'
                 />
                 <p>{errors.lastName?.message}</p>
               </label>
@@ -67,7 +76,10 @@ const CheckoutProduct = ({ togglePopup }) => {
             <label>
               <h5>Street Address</h5>
               <input
-                {...register('streetAddress', { required: 'This is required' })}
+                {...register('streetAddress', { required: 'This is required',
+                  minLength: 5,
+                  message: 'Street address must be at least 5 characters long',
+                 })}
               />
               <p>{errors.streetAddress?.message}</p>
             </label>
@@ -75,7 +87,10 @@ const CheckoutProduct = ({ togglePopup }) => {
             <label>
               <h5>Town/City</h5>
               <input
-                {...register('townCity', { required: 'This is required' })}
+                {...register('townCity', { required: 'This is required',
+                  minLength: 3,
+                  message: 'Town/City must be at least 3 characters long',
+                 })}
               />
               <p>{errors.townCity?.message}</p>
             </label>
@@ -83,7 +98,10 @@ const CheckoutProduct = ({ togglePopup }) => {
             <label>
               <h5>Province</h5>
               <input
-                {...register('province', { required: 'This is required' })}
+                {...register('province', { required: 'This is required',
+                  minLength: 2,
+                  message: 'Province must be at least 2 characters long',
+                 })}
               />
               <p>{errors.province?.message}</p>
             </label>
@@ -91,21 +109,30 @@ const CheckoutProduct = ({ togglePopup }) => {
             <label>
               <h5>ZIP Code</h5>
               <input
-                {...register('zipCode', { required: 'This is required' })}
+                {...register('zipCode', { required: 'This is required',
+                  minLength: 5,
+                  message: 'Zipcode must be at least 5 characters long',
+                 })}
               />
               <p>{errors.zipcode?.message}</p>
             </label>
 
             <label>
               <h5>Phone</h5>
-              <input {...register('phone', { required: 'This is required' })} />
+              <input {...register('phone', { required: 'This is required',
+                minLength: 10,
+                message: 'Phone must be at least 10 characters long',
+               })} />
               <p>{errors.phone?.message}</p>
             </label>
 
             <label>
               <h5>Email Address</h5>
               <input
-                {...register('emailAddress', { required: 'This is required' })}
+                {...register('emailAddress', { required: 'This is required',
+                  minLength: 5,
+                  message: 'Email address must be at least 5 characters long',
+                 })}
               />
               <p>{errors.emailAddress?.message}</p>
             </label>
@@ -116,7 +143,6 @@ const CheckoutProduct = ({ togglePopup }) => {
                   required: 'This is required',
                 })}
                 placeholder='Additional Information'
-                className=''
               />
             </label>
 
