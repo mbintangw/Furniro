@@ -12,7 +12,7 @@ const GetInTouch = () => {
   const onSubmit = (datacontact) => console.log(datacontact)
 
   return (
-    <div className='flex flex-col gap-[82px] justify-center items-center'>
+    <div className='flex flex-col gap-[82px] justify-center items-center mx-10 '>
       <div className='mt-[98px] flex flex-col gap-2 '>
         <h1 className='text-center'>Get In Touch With Us</h1>
         <p>
@@ -22,7 +22,7 @@ const GetInTouch = () => {
         </p>
       </div>
 
-      <div className='flex flex-row gap-[105px]'>
+      <div className='flex md:flex-row flex-col  gap-[105px]'>
         <div className='flex flex-col gap-[42px]'>
           <div className='flex flex-row gap-[31px]'>
             <IoLocationSharp size={40} />
