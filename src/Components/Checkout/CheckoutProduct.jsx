@@ -30,22 +30,22 @@ const CheckoutProduct = ({ togglePopup }) => {
     };
     setOrder(orderDetails)
     togglePopup()
-    // Save the orderDetails or send it to the server
+   
   };
 
   return (
     <div>
-      <div className='flex justify-center gap-[26px] mt-[63px]'>
-        <div className='w-[608px] flex flex-col gap-9'>
+      <div className='flex flex-col lg:flex-row justify-center items-center lg:items-start  gap-[26px] mt-[63px]'>
+        <div className='lg:w-[608px] flex flex-col gap-9'>
           <h1>Billing details</h1>
 
           <form onSubmit={handleSubmit(onSubmit)} className='formbilling'>
-            <div className='flex flex-row gap-5'>
+            <div className='flex flex-col lg:flex-row gap-5'>
               <label>
                 <h5>First Name</h5>
                 <input
                   {...register('firstName', { required: 'This is required' })}
-                  className='!w-[212px]'
+                  className='!w-[212px] md:!w-[300px]'
                 />
                 <p>{errors.firstName?.message}</p>
               </label>
@@ -54,7 +54,7 @@ const CheckoutProduct = ({ togglePopup }) => {
                 <h5>Last Name</h5>
                 <input
                   {...register('lastName', { required: 'This is required' })}
-                  className='!w-[212px]'
+                  className='!w-[212px] md:!w-[300px]'
                 />
                 <p>{errors.lastName?.message}</p>
               </label>
@@ -116,13 +116,14 @@ const CheckoutProduct = ({ togglePopup }) => {
                   required: 'This is required',
                 })}
                 placeholder='Additional Information'
+                className=''
               />
             </label>
 
           </form>
         </div>
 
-        <div className='w-[608px] '>
+        <div className='lg:w-[608px]'>
           <h2 className="text-2xl font-semibold mb-6">Product</h2>
           <div className="flex justify-between mb-4 border-b pb-2">
             <span className="font-semibold">Product</span>

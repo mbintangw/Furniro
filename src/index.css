@@ -118,7 +118,7 @@ label {
 }
 
 .formbilling input {
-  @apply w-[453px] h-[75px] border border-[#9F9F9F] rounded-xl py-7 pl-7
+  @apply w-[212px] md:w-[350px] lg:w-[453px] h-[75px] border border-[#9F9F9F] rounded-xl py-7 pl-5
 }
 
 .formbilling label {
