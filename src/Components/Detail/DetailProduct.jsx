@@ -152,12 +152,12 @@ const DetailProduct = () => {
               <button onClick={() => handleQuantityChange(1)}>+</button>
             </div>
             <button
-              className='outline !text-black rounded-2xl text-sm md:text-lg text-center'
+              className='outline !text-black rounded-2xl text-sm  md:text-lg text-center !h-14 '
               onClick={handleAddToCart}
             >
               Add to Cart
             </button>
-            <button className='outline !text-black rounded-2xl text-sm md:text-lg text-center'>
+            <button className='outline !text-black rounded-2xl text-sm md:text-lg text-center !h-14 '>
               <Link to={`/comparison/${product.id}`}>
                 Compare
               </Link>
