@@ -17,7 +17,7 @@ const CartTab = ({ onClose }) => {
       0
     )
   }
-
+  const CartItemId = cartItems.length > 0 ? cartItems[0].id : null;
   return (
     <div className='fixed top-0 right-0 w-full md:w-[450px] h-[550px] md:h-full bg-white p-7 shadow-lg z-50'>
       <div className='flex justify-between items-center'>
@@ -83,7 +83,7 @@ const CartTab = ({ onClose }) => {
           <Link to='/Checkout'>Checkout</Link>
         </button>
         <button className='border border-black rounded-2xl py-[6px] px-[25px] md:px-[30px]'>
-          Comparison
+          <Link to={`/Comparison/${CartItemId}`}>Comparison</Link>
         </button>
       </div>
     </div>
