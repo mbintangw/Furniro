@@ -1,15 +1,17 @@
 import React, { useState } from 'react'
 import filter from '../../image/icon/filter.svg'
-import grid from '../../image/icon/grid-big-round.svg'
-import list from '../../image/icon/view-list.svg'
+import { BsViewList } from "react-icons/bs";
+import { HiViewGrid } from "react-icons/hi";
+
 
 const FilterShop = ({
-  setViewMode,
   setItemsPerPage,
   setSortOrder,
   selectedCategories,
   setSelectedCategories,
   filteredProducts,
+  viewMode,
+  setViewMode,
 }) => {
   const [isfilterOpen, setIsfilterOpen] = useState(false)
 
@@ -158,21 +160,11 @@ const FilterShop = ({
             )}
           </div>
           <div className='flex flex-row gap-6'>
-            <img
-              src={grid}
-              className='w-7 h-7 cursor-pointer'
-              alt='grid'
-              onClick={() => setViewMode('grid')}
-            />
-            <img
-              src={list}
-              className='w-7 h-7 cursor-pointer'
-              alt='list'
-              onClick={() => setViewMode('list')}
-            />
+            <HiViewGrid className={`w-7 h-7 cursor-pointer ${viewMode === 'grid' ? 'text-primary' : 'text-black'}`}  onClick={() => setViewMode('grid')}/>
+            <BsViewList className={`w-7 h-7 cursor-pointer ${viewMode === 'list' ? 'text-primary' : 'text-black'}`} onClick={() => setViewMode('list')}/>
           </div>
           <h4 className='font-normal border-l-4 pl-4 border-[#9F9F9F] h-full lg:flex items-center hidden'>
-            Showing 1 of {filteredProducts} results
+            Showing {setSortOrder === 'default' ? 30 : 10} of {setSortOrder === 'default' ? 10 : 30} results
           </h4>
         </div>
 

@@ -14,6 +14,7 @@ const ShopPages = () => {
     <div>
       <HeroSectionShop/>
       <FilterShop
+        viewMode={viewMode}
         setViewMode={setViewMode} 
         setItemsPerPage= {setItemsPerPage} 
         setSortOrder={setSortOrder} 
