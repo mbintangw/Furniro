@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
         <div className='flex flex-col'>
           <h5 className='text-[#9F9F9F]'>Help</h5>
-          <NavLink to='/Payment'>Payment Options</NavLink>
+          <NavLink to='/Checkout'>Payment Options</NavLink>
           <NavLink to='/Returns'>Returns</NavLink>
           <NavLink to='/Privacy'>Privacy  Policies</NavLink>
         </div>

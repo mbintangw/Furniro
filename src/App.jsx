@@ -11,6 +11,7 @@ import ComparisonPages from './Pages/ComparisonPages'
 import CheckoutPages from './Pages/CheckoutPages'
 import { OrderProvider } from './Components/Checkout/OrderContext'; 
 import ContactPages from './Pages/ContactPages'
+import NotFoundPages from './Pages/NotFoundPages'
 
 function App() {
   return (
@@ -54,7 +55,11 @@ function App() {
             <ContactPages />
           </MainLayout>
         }/>
-        
+        <Route path='*' element={
+          <MainLayout>
+            <NotFoundPages />
+          </MainLayout>
+        }/>
       </Routes>
       </CartProvider>
       </OrderProvider>
