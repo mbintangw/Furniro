@@ -1,9 +1,9 @@
 import React from 'react'
-import chair from '../../image/chair/rigel.jpg'
-import sofa from '../../image/sofa/procyon.jpg'
-import table from '../../image/table/vortex.jpg'
-import wardrobe from '../../image/wardrobe/tegar.jpg'
-import lamp from '../../image/lamp/lumos.jpg'
+import chair from '/image/chair/rigel.jpg'
+import sofa from '/image/sofa/procyon.jpg'
+import table from '/image/table/vortex.jpg'
+import wardrobe from '/image/wardrobe/tegar.jpg'
+import lamp from '/image/lamp/lumos.jpg'
 
 const Category = () => {
   return (
