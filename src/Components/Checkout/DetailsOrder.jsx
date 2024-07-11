@@ -19,31 +19,31 @@ const DetailsOrder = ({ showPopup, togglePopup }) => {
   return (
     
       <div className='fixed inset-0  flex items-center justify-center bg-black bg-opacity-50 z-50 '>
-        <div className='bg-white relative   p-6 rounded-lg lg:w-1/2 mx-auto'>
-          <button onClick={handleClose} className='absolute top-3 right-3 '><IoMdCloseCircle className='text-[35px] hover:text-red-500'/></button>
+        <div className='bg-white relative p- rounded-lg lg:w-1/2 w-[500px] h-[500px] lg:h-full overflow-y-auto px-6'>
+          <button onClick={handleClose} className='absolute top-5 right-5 '><IoMdCloseCircle className='lg:text-[35px] text-[25px] hover:text-red-500'/></button>
           <div className='flex flex-col justify-center items-center mt-10'>
-            <h3 className='text-3xl font-semibold mb-6'>Order Details</h3>
+            <h3 className='lg:text-3xl text-lg font-semibold mb-6'>Order Details</h3>
           </div>
-          <div className='flex flex-col gap-4 '>
+          <div className='flex flex-col gap-4  '>
               <p>
-                <strong>Name:</strong> {billingDetails.firstName} {billingDetails.lastName}
+                <strong>Name : </strong> {billingDetails.firstName} {billingDetails.lastName}
               </p>
               <p>
-                <strong>Company Name:</strong> {billingDetails.companyName}
+                <strong>Company Name : </strong> {billingDetails.companyName}
               </p>
               <p>
-                <strong>Street Address:</strong> 
+                <strong>Street Address : </strong> 
                 {billingDetails.streetAddress}
                 ({billingDetails.townCity}, {billingDetails.province},{billingDetails.zipCode})
               </p>
               <p>
-                <strong>Phone:</strong> {billingDetails.phone}
+                <strong>Phone : </strong> {billingDetails.phone}
               </p>
               <p>
-                <strong>Email Address:</strong> {billingDetails.emailAddress}
+                <strong>Email Address : </strong> {billingDetails.emailAddress}
               </p>
               <p>
-                <strong>Additional Information:</strong>
+                <strong>Additional Information : </strong>
                 {billingDetails.additionalInformation}
               </p>
             </div>
